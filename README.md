@@ -32,10 +32,10 @@ The ingestion and querying of the EU Regulations Q&As follow the below steps:
 ### Results
 The accuracy evaluations are saved in the in the *QA_Matching_Accuracy_Results.csv* file in the *results/* directory and are summarized in the following tables:
 
-![Accuracy - Exact Match](https://github.com/antdragiotis/Embedding-models-vs.-Languages-performance/blob/main/assets/Results_Accuracy.PNG)
+![Accuracy - Exact Match](https://github.com/antdragiotis/Embedding-models-vs-Languages-performance/blob/main/assets/Results_Accuracy.PNG)
 Accuracy - Exact Match
 
-![Accuracy - Top 3 selections](https://github.com/antdragiotis/Embedding-models-vs.-Languages-performance/blob/main/assets/Results_Accuracy_alt.PNG)
+![Accuracy - Top 3 selections](https://github.com/antdragiotis/Embedding-models-vs-Languages-performance/blob/main/assets/Results_Accuracy_alt.PNG)
 Accuracy - Top 3 selections
 
 The above evaluations confirm suggestions of current research that GenAI models show higher performance when processing English or languages they are direct descendants of Latin (like Italian, French and Romanian). **text-embedding-3-large** and **text-embedding-ada-002** demonstrate higher performance when comparing with **text-embedding-3-small**.    
