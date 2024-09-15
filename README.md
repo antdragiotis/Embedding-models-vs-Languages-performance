@@ -14,18 +14,18 @@ The ingestion and querying of the EU Regulations Q&As follow the below steps:
 
 ### Features
 - **Source Data**: The application uses as source data file the following EU regulatory documents:
-  - **AI Act** (EU regulation 2024/1689) to promote the uptake of human-centric and trustworthy Artificial Intelligence and ensure better conditions for the development and use of this innovative technology. **26** Questions & Answers written in English, German, Greek, Hungarian, Italian and Romanian.
+  - **AI Act** (EU regulation 2024/1689) that promotes the uptake of human-centric and trustworthy Artificial Intelligence and ensures better conditions for the development and use of this innovative technology. **26** Questions & Answers written in English, German, Greek, Hungarian, Italian and Romanian.
   - **Late Payment Directive** (EU Directive 2011/7/EU) on combating late payment in commercial transactions, to protect European businesses, particularly SMEs, against late payment. **13** Questions & Answers written in English, German, Greek, Hungarian, Italian and Romanian.
   - **Single Currency Package** as a proposal of the European Commission to ensure that citizens and businesses can continue to access and pay with euro banknotes and coins across the euro area, and to set out a framework for a possible new digital form of the euro that the European Central Bank may issue in the future, as a complement to cash. **39** Questions & Answers written in English, French and German.
 - **Embedding Models**: The **OpenAI** Embedding Models they are used for the embedding of the source files are: 
   - **text-embedding-3-small**
   - **text-embedding-ada-002**
   - **text-embedding-3-large**  
-- **Ingestion**: The 'Ingestion' process is performed by the *EVAL_EMBEDDINS_EU_REG_INGEST.py* Python file. This process reads the Source Data and splits the Source documents text into chunks, assigning also to each chunk information about the relevant question number. It saves this information into the *EU_REG_QA_Chunks.csv* file in the *intermediate_data* directory. Next to this, the process uses **FAISS** library to store the vectorized data to the *FAISS_storage* directory. 
+- **Ingestion**: The 'Ingestion' process is performed by the *EVAL_EMBEDDINS_EU_REG_INGEST.py* Python file. This process reads the Source Data and splits the Source documents text into chunks, assigning also to each chunk information about the relevant question number. It saves this information into the *EU_REG_QA_Chunks.csv* file in the *intermediate_data* directory. Next to this, the process uses **FAISS** library to store the vectorized data in the *FAISS_storage* directory. 
 - The *EVAL_EMBEDDINGS_EU_REG_BATCH.py* Python file executes three key processes to retrieve the questions in the Source Files and assess the accuracy of the embedding models responses:
   - **Question Auto-Submission**: Reads the *EU_REG_QA_Chunks.csv* file in the *intermediate_data* directory to get the Questions to be submmitted for retrieval.  
   - **Retrieval of Embedded Data** each Question is compared with the embedded data to find the most relevant chunks (top 3) based on their proximity with the Question.
-  - **Accuracy Evaluation** The selected chunks and their corresponding question numbers are compared with the submitted Question number to find if the selection was successful anf assess the accuracy of the embedding models. The accuracy is evaluated in two ways:
+  - **Accuracy Evaluation** The selected chunks and their corresponding question numbers are compared with the submitted Question number to find if the selection was successful and assess the accuracy of the embedding models. The accuracy is evaluated as two alternatives:
      - **Exact Match** when a submitted question is the same with the top selected question (the question corresponding to the highest proximity chunk).  
      - **Match with the top 3 selections** when a  submitted question is within the the top 3 questions (questions corresponding to the top 3 chunks according to their proximity with the submitted question).
 
@@ -33,12 +33,14 @@ The ingestion and querying of the EU Regulations Q&As follow the below steps:
 The accuracy evaluations are saved in the in the *QA_Matching_Accuracy_Results.csv* file in the *results/* directory and are summarized in the following tables:
 
 ![Accuracy - Exact Match](https://github.com/antdragiotis/Embedding-models-vs-Languages-performance/blob/main/assets/Results_Accuracy.PNG)
+
 Accuracy - Exact Match
 
 ![Accuracy - Top 3 selections](https://github.com/antdragiotis/Embedding-models-vs-Languages-performance/blob/main/assets/Results_Accuracy_alt.PNG)
+
 Accuracy - Top 3 selections
 
-The above evaluations confirm suggestions of current research that GenAI models show higher performance when processing English or languages they are direct descendants of Latin (like Italian, French and Romanian). **text-embedding-3-large** and **text-embedding-ada-002** demonstrate higher performance when comparing with **text-embedding-3-small**.    
+The above evaluations confirm suggestions of current research that GenAI models show higher performance when processing English or languages they are direct descendants of Latin (like Italian, French and Romanian in this repository). **text-embedding-3-large** and **text-embedding-ada-002** demonstrate higher performance when comparing with **text-embedding-3-small**.    
 
 
 ### How to run the app:
