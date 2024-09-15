@@ -1,0 +1,10 @@
+os
+pathlib
+glob
+docx
+tqdm 
+numpy 
+pandas
+sklearn
+langchain
+
