@@ -1,0 +1,1054 @@
+Regulation,Language,Model,Question_No,Question_Text,FAISS 1st Ranked,FAISS 2nd Ranked,FAISS 3rd Ranked,FAISS Best Choice
+EU_AI,English,text-embedding-3-large,1,Why do we need to regulate the use of Artificial Intelligence?,1,3,16,1
+EU_AI,English,text-embedding-3-large,2,To whom does the AI Act apply?,17,2,4,2
+EU_AI,English,text-embedding-3-large,3,What are the risk categories?,4,3,5,3
+EU_AI,English,text-embedding-3-large,4,How do I know whether an AI system is high-risk?,3,4,5,4
+EU_AI,English,text-embedding-3-large,5,What are examples for high-risk use cases as defined in Annex III?,5,4,3,5
+EU_AI,English,text-embedding-3-large,6,What are the obligations for providers of high-risk AI systems?,15,6,3,6
+EU_AI,English,text-embedding-3-large,7,What would be the role of standardisation in the AI Act?,7,22,11,7
+EU_AI,English,text-embedding-3-large,8,How are general-purpose AI models being regulated?,8,3,3,8
+EU_AI,English,text-embedding-3-large,9,Why is 10^25 FLOPs an appropriate threshold for GPAI with systemic risks?,9,8,3,9
+EU_AI,English,text-embedding-3-large,10,What are the obligations regarding watermarking and labelling of the AI outputs set out in the AI Act?,10,8,22,10
+EU_AI,English,text-embedding-3-large,11,Is the AI Act future-proof?,11,1,3,11
+EU_AI,English,text-embedding-3-large,12,How does the AI Act regulate biometric identification?,12,3,13,12
+EU_AI,English,text-embedding-3-large,13,Why are particular rules needed for remote biometric identification?,13,12,3,13
+EU_AI,English,text-embedding-3-large,14,How do the rules protect fundamental rights?,14,15,1,14
+EU_AI,English,text-embedding-3-large,15,"What is a fundamental rights impact assessment? Who has to conduct such an assessment, and when?",15,14,6,15
+EU_AI,English,text-embedding-3-large,16,How does this regulation address racial and gender bias in AI?,16,3,14,16
+EU_AI,English,text-embedding-3-large,17,When will the AI Act be fully applicable?,17,7,25,17
+EU_AI,English,text-embedding-3-large,18,How will the AI Act be enforced?,18,17,22,18
+EU_AI,English,text-embedding-3-large,19,Why is a European Artificial Intelligence Board needed and what will it do?,19,18,1,19
+EU_AI,English,text-embedding-3-large,20,What are the penalties for infringement?,20,6,22,20
+EU_AI,English,text-embedding-3-large,21,How will the General-Purpose AI Code of Practice be written?,21,22,8,21
+EU_AI,English,text-embedding-3-large,22,"If approved, how does the Code of Practice for general-purpose AI model providers serve as a central tool for compliance?",22,8,21,22
+EU_AI,English,text-embedding-3-large,23,Does the AI Act contain provisions regarding environmental protection and sustainability?,23,11,1,23
+EU_AI,English,text-embedding-3-large,24,How can the new rules support innovation?,24,11,8,24
+EU_AI,English,text-embedding-3-large,25,What role does the AI Pact play in the implementation of the AI Act?,25,18,19,25
+EU_AI,English,text-embedding-3-large,26,What is the international dimension of the EU's approach?,26,1,25,26
+EU_AI,English,text-embedding-3-small,1,Why do we need to regulate the use of Artificial Intelligence?,3,24,1,1
+EU_AI,English,text-embedding-3-small,2,To whom does the AI Act apply?,17,18,11,17
+EU_AI,English,text-embedding-3-small,3,What are the risk categories?,4,5,15,4
+EU_AI,English,text-embedding-3-small,4,How do I know whether an AI system is high-risk?,4,6,5,4
+EU_AI,English,text-embedding-3-small,5,What are examples for high-risk use cases as defined in Annex III?,5,4,15,5
+EU_AI,English,text-embedding-3-small,6,What are the obligations for providers of high-risk AI systems?,15,6,8,6
+EU_AI,English,text-embedding-3-small,7,What would be the role of standardisation in the AI Act?,11,7,18,7
+EU_AI,English,text-embedding-3-small,8,How are general-purpose AI models being regulated?,8,3,24,8
+EU_AI,English,text-embedding-3-small,9,Why is 10^25 FLOPs an appropriate threshold for GPAI with systemic risks?,9,8,5,9
+EU_AI,English,text-embedding-3-small,10,What are the obligations regarding watermarking and labelling of the AI outputs set out in the AI Act?,10,24,3,10
+EU_AI,English,text-embedding-3-small,11,Is the AI Act future-proof?,11,17,3,11
+EU_AI,English,text-embedding-3-small,12,How does the AI Act regulate biometric identification?,12,3,13,12
+EU_AI,English,text-embedding-3-small,13,Why are particular rules needed for remote biometric identification?,13,12,5,13
+EU_AI,English,text-embedding-3-small,14,How do the rules protect fundamental rights?,14,15,3,14
+EU_AI,English,text-embedding-3-small,15,"What is a fundamental rights impact assessment? Who has to conduct such an assessment, and when?",15,14,6,15
+EU_AI,English,text-embedding-3-small,16,How does this regulation address racial and gender bias in AI?,16,14,3,16
+EU_AI,English,text-embedding-3-small,17,When will the AI Act be fully applicable?,17,25,11,17
+EU_AI,English,text-embedding-3-small,18,How will the AI Act be enforced?,18,17,11,18
+EU_AI,English,text-embedding-3-small,19,Why is a European Artificial Intelligence Board needed and what will it do?,19,18,26,19
+EU_AI,English,text-embedding-3-small,20,What are the penalties for infringement?,20,10,3,20
+EU_AI,English,text-embedding-3-small,21,How will the General-Purpose AI Code of Practice be written?,22,21,10,21
+EU_AI,English,text-embedding-3-small,22,"If approved, how does the Code of Practice for general-purpose AI model providers serve as a central tool for compliance?",22,21,8,22
+EU_AI,English,text-embedding-3-small,23,Does the AI Act contain provisions regarding environmental protection and sustainability?,23,11,18,23
+EU_AI,English,text-embedding-3-small,24,How can the new rules support innovation?,24,11,20,24
+EU_AI,English,text-embedding-3-small,25,What role does the AI Pact play in the implementation of the AI Act?,25,18,11,25
+EU_AI,English,text-embedding-3-small,26,What is the international dimension of the EU's approach?,26,1,19,26
+EU_AI,English,text-embedding-ada-002,1,Why do we need to regulate the use of Artificial Intelligence?,24,3,1,1
+EU_AI,English,text-embedding-ada-002,2,To whom does the AI Act apply?,18,17,11,18
+EU_AI,English,text-embedding-ada-002,3,What are the risk categories?,4,5,3,3
+EU_AI,English,text-embedding-ada-002,4,How do I know whether an AI system is high-risk?,4,6,5,4
+EU_AI,English,text-embedding-ada-002,5,What are examples for high-risk use cases as defined in Annex III?,5,3,4,5
+EU_AI,English,text-embedding-ada-002,6,What are the obligations for providers of high-risk AI systems?,6,15,3,6
+EU_AI,English,text-embedding-ada-002,7,What would be the role of standardisation in the AI Act?,7,11,23,7
+EU_AI,English,text-embedding-ada-002,8,How are general-purpose AI models being regulated?,8,3,24,8
+EU_AI,English,text-embedding-ada-002,9,Why is 10^25 FLOPs an appropriate threshold for GPAI with systemic risks?,9,8,3,9
+EU_AI,English,text-embedding-ada-002,10,What are the obligations regarding watermarking and labelling of the AI outputs set out in the AI Act?,10,11,2,10
+EU_AI,English,text-embedding-ada-002,11,Is the AI Act future-proof?,11,17,1,11
+EU_AI,English,text-embedding-ada-002,12,How does the AI Act regulate biometric identification?,12,3,11,12
+EU_AI,English,text-embedding-ada-002,13,Why are particular rules needed for remote biometric identification?,13,12,3,13
+EU_AI,English,text-embedding-ada-002,14,How do the rules protect fundamental rights?,14,15,1,14
+EU_AI,English,text-embedding-ada-002,15,"What is a fundamental rights impact assessment? Who has to conduct such an assessment, and when?",15,14,2,15
+EU_AI,English,text-embedding-ada-002,16,How does this regulation address racial and gender bias in AI?,16,14,24,16
+EU_AI,English,text-embedding-ada-002,17,When will the AI Act be fully applicable?,17,11,7,17
+EU_AI,English,text-embedding-ada-002,18,How will the AI Act be enforced?,18,11,7,18
+EU_AI,English,text-embedding-ada-002,19,Why is a European Artificial Intelligence Board needed and what will it do?,19,18,26,19
+EU_AI,English,text-embedding-ada-002,20,What are the penalties for infringement?,20,2,3,20
+EU_AI,English,text-embedding-ada-002,21,How will the General-Purpose AI Code of Practice be written?,21,22,8,21
+EU_AI,English,text-embedding-ada-002,22,"If approved, how does the Code of Practice for general-purpose AI model providers serve as a central tool for compliance?",22,8,21,22
+EU_AI,English,text-embedding-ada-002,23,Does the AI Act contain provisions regarding environmental protection and sustainability?,11,23,1,23
+EU_AI,English,text-embedding-ada-002,24,How can the new rules support innovation?,24,11,14,24
+EU_AI,English,text-embedding-ada-002,25,What role does the AI Pact play in the implementation of the AI Act?,25,11,18,25
+EU_AI,English,text-embedding-ada-002,26,What is the international dimension of the EU's approach?,26,1,2,26
+EU_AI,German,text-embedding-3-large,1,Warum muss die Verwendung künstlicher Intelligenz reguliert werden?,1,14,5,1
+EU_AI,German,text-embedding-3-large,2,Für wen wird die KI-Verordnung gelten?,2,17,1,2
+EU_AI,German,text-embedding-3-large,3,Welche Risikoeinstufungen gibt es?,4,3,3,3
+EU_AI,German,text-embedding-3-large,4,"Wie erfahre ich, ob ein KI-System mit hohem Risiko behaftet ist?",4,3,6,4
+EU_AI,German,text-embedding-3-large,5,Gibt es Beispiele für die in Anhang III genannten Anwendungsfälle mit hohem Risiko?,5,3,3,5
+EU_AI,German,text-embedding-3-large,6,Welche Pflichten haben Anbieter von KI-Systemen mit hohem Risiko?,15,6,4,6
+EU_AI,German,text-embedding-3-large,7,Welche Rolle spielt die Normung in der KI-Verordnung?,7,23,11,7
+EU_AI,German,text-embedding-3-large,8,Wie erfolgt die Regulierung von KI-Modellen mit allgemeinem Verwendungszweck?,8,6,4,8
+EU_AI,German,text-embedding-3-large,9,"Warum ist 10^25 FLOPs ein angemessener Schwellenwert für KI-Modelle mit allgemeinem Verwendungszweck (General-Purpose AI, GPAI), die systemische Risiken bergen?",9,8,3,9
+EU_AI,German,text-embedding-3-large,10,Welche Verpflichtungen in Bezug auf die Anbringung von Wasserzeichen und die Kenntlichmachung von KI-Ergebnissen sind in der KI-Verordnung vorgesehen?,10,6,15,10
+EU_AI,German,text-embedding-3-large,11,Ist die KI-Verordnung zukunftstauglich?,1,11,23,11
+EU_AI,German,text-embedding-3-large,12,Wie regelt die KI-Verordnung die biometrische Identifizierung?,12,13,6,12
+EU_AI,German,text-embedding-3-large,13,Warum sind für die biometrische Fernidentifizierung besondere Vorschriften erforderlich?,13,12,3,13
+EU_AI,German,text-embedding-3-large,14,Wie werden die Grundrechte durch die neuen Vorschriften geschützt?,14,1,15,14
+EU_AI,German,text-embedding-3-large,15,"Was ist eine Folgenabschätzung in Bezug auf die Grundrechte? Wer muss eine solche Folgenabschätzung durchführen, und wann?",15,14,3,15
+EU_AI,German,text-embedding-3-large,16,"Wie soll diese Verordnung darauf hinwirken, dass KI zu keinen Verzerrungen aufgrund der Rasse oder des Geschlechts führt?",16,14,10,16
+EU_AI,German,text-embedding-3-large,17,Ab wann wird die KI-Verordnung uneingeschränkt anwendbar sein?,17,7,2,17
+EU_AI,German,text-embedding-3-large,18,Wie werden die Vorschriften der KI-Verordnung durchgesetzt?,6,1,20,6
+EU_AI,German,text-embedding-3-large,19,"Warum wird ein Europäisches Gremium für Künstliche Intelligenz gebraucht, und was soll es tun?",19,18,1,19
+EU_AI,German,text-embedding-3-large,20,Welche Sanktionen sind bei Verstößen vorgesehen?,20,6,12,20
+EU_AI,German,text-embedding-3-large,21,Wie erfolgt die Aufstellung des Praxisleitfadens für KI-Modelle mit allgemeinem Verwendungszweck?,21,21,22,21
+EU_AI,German,text-embedding-3-large,22,"Auf welche Weise soll der Praxisleitfaden für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck, falls er genehmigt wird, als zentrales Instrument für die Einhaltung der Vorschriften dienen?",22,21,21,22
+EU_AI,German,text-embedding-3-large,23,Enthält die KI-Verordnung Bestimmungen zum Umweltschutz und zur Nachhaltigkeit?,23,1,11,23
+EU_AI,German,text-embedding-3-large,24,Wie können die neuen Vorschriften die Innovation fördern?,11,24,1,24
+EU_AI,German,text-embedding-3-large,25,Welche Rolle spielt der KI-Pakt bei der Durchführung der KI-Verordnung?,25,18,19,25
+EU_AI,German,text-embedding-3-large,26,Welche internationale Dimension hat das EU-Konzept?,26,1,23,26
+EU_AI,German,text-embedding-3-small,1,Warum muss die Verwendung künstlicher Intelligenz reguliert werden?,24,3,3,24
+EU_AI,German,text-embedding-3-small,2,Für wen wird die KI-Verordnung gelten?,11,17,18,11
+EU_AI,German,text-embedding-3-small,3,Welche Risikoeinstufungen gibt es?,4,3,5,3
+EU_AI,German,text-embedding-3-small,4,"Wie erfahre ich, ob ein KI-System mit hohem Risiko behaftet ist?",3,6,5,3
+EU_AI,German,text-embedding-3-small,5,Gibt es Beispiele für die in Anhang III genannten Anwendungsfälle mit hohem Risiko?,5,4,3,5
+EU_AI,German,text-embedding-3-small,6,Welche Pflichten haben Anbieter von KI-Systemen mit hohem Risiko?,3,6,15,6
+EU_AI,German,text-embedding-3-small,7,Welche Rolle spielt die Normung in der KI-Verordnung?,11,7,18,7
+EU_AI,German,text-embedding-3-small,8,Wie erfolgt die Regulierung von KI-Modellen mit allgemeinem Verwendungszweck?,8,3,18,8
+EU_AI,German,text-embedding-3-small,9,"Warum ist 10^25 FLOPs ein angemessener Schwellenwert für KI-Modelle mit allgemeinem Verwendungszweck (General-Purpose AI, GPAI), die systemische Risiken bergen?",8,9,3,9
+EU_AI,German,text-embedding-3-small,10,Welche Verpflichtungen in Bezug auf die Anbringung von Wasserzeichen und die Kenntlichmachung von KI-Ergebnissen sind in der KI-Verordnung vorgesehen?,10,11,2,10
+EU_AI,German,text-embedding-3-small,11,Ist die KI-Verordnung zukunftstauglich?,11,17,3,11
+EU_AI,German,text-embedding-3-small,12,Wie regelt die KI-Verordnung die biometrische Identifizierung?,3,12,11,12
+EU_AI,German,text-embedding-3-small,13,Warum sind für die biometrische Fernidentifizierung besondere Vorschriften erforderlich?,12,13,3,13
+EU_AI,German,text-embedding-3-small,14,Wie werden die Grundrechte durch die neuen Vorschriften geschützt?,14,3,15,14
+EU_AI,German,text-embedding-3-small,15,"Was ist eine Folgenabschätzung in Bezug auf die Grundrechte? Wer muss eine solche Folgenabschätzung durchführen, und wann?",15,14,3,15
+EU_AI,German,text-embedding-3-small,16,"Wie soll diese Verordnung darauf hinwirken, dass KI zu keinen Verzerrungen aufgrund der Rasse oder des Geschlechts führt?",16,11,3,16
+EU_AI,German,text-embedding-3-small,17,Ab wann wird die KI-Verordnung uneingeschränkt anwendbar sein?,17,11,3,17
+EU_AI,German,text-embedding-3-small,18,Wie werden die Vorschriften der KI-Verordnung durchgesetzt?,11,17,18,18
+EU_AI,German,text-embedding-3-small,19,"Warum wird ein Europäisches Gremium für Künstliche Intelligenz gebraucht, und was soll es tun?",19,18,26,19
+EU_AI,German,text-embedding-3-small,20,Welche Sanktionen sind bei Verstößen vorgesehen?,20,3,10,20
+EU_AI,German,text-embedding-3-small,21,Wie erfolgt die Aufstellung des Praxisleitfadens für KI-Modelle mit allgemeinem Verwendungszweck?,22,21,8,21
+EU_AI,German,text-embedding-3-small,22,"Auf welche Weise soll der Praxisleitfaden für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck, falls er genehmigt wird, als zentrales Instrument für die Einhaltung der Vorschriften dienen?",22,8,21,22
+EU_AI,German,text-embedding-3-small,23,Enthält die KI-Verordnung Bestimmungen zum Umweltschutz und zur Nachhaltigkeit?,11,18,23,23
+EU_AI,German,text-embedding-3-small,24,Wie können die neuen Vorschriften die Innovation fördern?,11,24,1,24
+EU_AI,German,text-embedding-3-small,25,Welche Rolle spielt der KI-Pakt bei der Durchführung der KI-Verordnung?,11,25,18,25
+EU_AI,German,text-embedding-3-small,26,Welche internationale Dimension hat das EU-Konzept?,26,1,18,26
+EU_AI,German,text-embedding-ada-002,1,Warum muss die Verwendung künstlicher Intelligenz reguliert werden?,24,1,3,1
+EU_AI,German,text-embedding-ada-002,2,Für wen wird die KI-Verordnung gelten?,17,2,18,2
+EU_AI,German,text-embedding-ada-002,3,Welche Risikoeinstufungen gibt es?,4,15,3,3
+EU_AI,German,text-embedding-ada-002,4,"Wie erfahre ich, ob ein KI-System mit hohem Risiko behaftet ist?",4,3,5,4
+EU_AI,German,text-embedding-ada-002,5,Gibt es Beispiele für die in Anhang III genannten Anwendungsfälle mit hohem Risiko?,5,4,3,5
+EU_AI,German,text-embedding-ada-002,6,Welche Pflichten haben Anbieter von KI-Systemen mit hohem Risiko?,15,3,6,6
+EU_AI,German,text-embedding-ada-002,7,Welche Rolle spielt die Normung in der KI-Verordnung?,7,11,1,7
+EU_AI,German,text-embedding-ada-002,8,Wie erfolgt die Regulierung von KI-Modellen mit allgemeinem Verwendungszweck?,8,18,23,8
+EU_AI,German,text-embedding-ada-002,9,"Warum ist 10^25 FLOPs ein angemessener Schwellenwert für KI-Modelle mit allgemeinem Verwendungszweck (General-Purpose AI, GPAI), die systemische Risiken bergen?",9,8,3,9
+EU_AI,German,text-embedding-ada-002,10,Welche Verpflichtungen in Bezug auf die Anbringung von Wasserzeichen und die Kenntlichmachung von KI-Ergebnissen sind in der KI-Verordnung vorgesehen?,2,11,25,2
+EU_AI,German,text-embedding-ada-002,11,Ist die KI-Verordnung zukunftstauglich?,17,3,1,17
+EU_AI,German,text-embedding-ada-002,12,Wie regelt die KI-Verordnung die biometrische Identifizierung?,12,18,11,12
+EU_AI,German,text-embedding-ada-002,13,Warum sind für die biometrische Fernidentifizierung besondere Vorschriften erforderlich?,13,12,3,13
+EU_AI,German,text-embedding-ada-002,14,Wie werden die Grundrechte durch die neuen Vorschriften geschützt?,14,1,24,14
+EU_AI,German,text-embedding-ada-002,15,"Was ist eine Folgenabschätzung in Bezug auf die Grundrechte? Wer muss eine solche Folgenabschätzung durchführen, und wann?",15,14,2,15
+EU_AI,German,text-embedding-ada-002,16,"Wie soll diese Verordnung darauf hinwirken, dass KI zu keinen Verzerrungen aufgrund der Rasse oder des Geschlechts führt?",16,10,11,16
+EU_AI,German,text-embedding-ada-002,17,Ab wann wird die KI-Verordnung uneingeschränkt anwendbar sein?,17,3,7,17
+EU_AI,German,text-embedding-ada-002,18,Wie werden die Vorschriften der KI-Verordnung durchgesetzt?,18,11,17,18
+EU_AI,German,text-embedding-ada-002,19,"Warum wird ein Europäisches Gremium für Künstliche Intelligenz gebraucht, und was soll es tun?",19,18,26,19
+EU_AI,German,text-embedding-ada-002,20,Welche Sanktionen sind bei Verstößen vorgesehen?,20,3,3,20
+EU_AI,German,text-embedding-ada-002,21,Wie erfolgt die Aufstellung des Praxisleitfadens für KI-Modelle mit allgemeinem Verwendungszweck?,21,22,21,21
+EU_AI,German,text-embedding-ada-002,22,"Auf welche Weise soll der Praxisleitfaden für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck, falls er genehmigt wird, als zentrales Instrument für die Einhaltung der Vorschriften dienen?",22,21,21,22
+EU_AI,German,text-embedding-ada-002,23,Enthält die KI-Verordnung Bestimmungen zum Umweltschutz und zur Nachhaltigkeit?,23,1,11,23
+EU_AI,German,text-embedding-ada-002,24,Wie können die neuen Vorschriften die Innovation fördern?,24,11,25,24
+EU_AI,German,text-embedding-ada-002,25,Welche Rolle spielt der KI-Pakt bei der Durchführung der KI-Verordnung?,25,11,18,25
+EU_AI,German,text-embedding-ada-002,26,Welche internationale Dimension hat das EU-Konzept?,26,1,23,26
+EU_AI,Greek,text-embedding-3-large,1,Γιατί πρέπει να ρυθμίσουμε τη χρήση της τεχνητής νοημοσύνης;,1,19,18,1
+EU_AI,Greek,text-embedding-3-large,2,Σε ποιους έχει εφαρμογή ο κανονισμός για την ΤΝ;,17,11,2,2
+EU_AI,Greek,text-embedding-3-large,3,Ποιες είναι οι κατηγορίες κινδύνου;,5,4,3,3
+EU_AI,Greek,text-embedding-3-large,4,Πώς μπορώ να γνωρίζω αν ένα σύστημα ΤΝ είναι υψηλού κινδύνου;,15,5,3,15
+EU_AI,Greek,text-embedding-3-large,5,"Ποια είναι τα παραδείγματα περιπτώσεων χρήσης υψηλού κινδύνου, όπως ορίζονται στο παράρτημα III;",5,3,3,5
+EU_AI,Greek,text-embedding-3-large,6,Ποιες είναι οι υποχρεώσεις των παρόχων συστημάτων ΤΝ υψηλού κινδύνου;,15,7,6,6
+EU_AI,Greek,text-embedding-3-large,7,Ποιος θα ήταν ο ρόλος της τυποποίησης στον κανονισμό για την ΤΝ;,17,11,7,7
+EU_AI,Greek,text-embedding-3-large,8,Πώς ρυθμίζονται τα μοντέλα ΤΝ γενικού σκοπού;,23,8,22,8
+EU_AI,Greek,text-embedding-3-large,9,Γιατί τα 10^25 FLOPS αποτελούν κατάλληλο όριο για την ΤΝ γενικού σκοπού (ΤΝΓΣ) με συστημικούς κινδύνους;,9,8,3,9
+EU_AI,Greek,text-embedding-3-large,10,Ποιες είναι οι υποχρεώσεις που ορίζονται στον κανονισμό για την ΤΝ σχετικά με την υδατογραφική σήμανση και την επισήμανση των προϊόντων της ΤΝ;,10,17,11,10
+EU_AI,Greek,text-embedding-3-large,11,Είναι ο κανονισμός για την ΤΝ ανθεκτικός στις μελλοντικές εξελίξεις;,11,17,7,11
+EU_AI,Greek,text-embedding-3-large,12,Πώς ρυθμίζει ο κανονισμός για την ΤΝ τη βιομετρική ταυτοποίηση;,17,11,12,12
+EU_AI,Greek,text-embedding-3-large,13,Γιατί απαιτούνται ειδικοί κανόνες για την εξ αποστάσεως βιομετρική ταυτοποίηση;,13,12,5,13
+EU_AI,Greek,text-embedding-3-large,14,Πώς προστατεύουν οι κανόνες τα θεμελιώδη δικαιώματα;,14,15,1,14
+EU_AI,Greek,text-embedding-3-large,15,Τι είναι η εκτίμηση επιπτώσεων για τα θεμελιώδη δικαιώματα; Ποιος πρέπει να διενεργεί τέτοια εκτίμηση και πότε;,15,14,2,15
+EU_AI,Greek,text-embedding-3-large,16,Πώς αντιμετωπίζει αυτός ο κανονισμός τις προκαταλήψεις λόγω φυλής και φύλου στην ΤΝ;,14,2,16,16
+EU_AI,Greek,text-embedding-3-large,17,Πότε θα τεθεί σε πλήρη εφαρμογή ο κανονισμός για την ΤΝ;,17,7,11,17
+EU_AI,Greek,text-embedding-3-large,18,Πώς θα επιβάλλεται ο κανονισμός για την ΤΝ;,17,11,7,17
+EU_AI,Greek,text-embedding-3-large,19,Γιατί χρειάζεται το Ευρωπαϊκό Συμβούλιο Τεχνητής Νοημοσύνης και τι θα κάνει;,19,18,1,19
+EU_AI,Greek,text-embedding-3-large,20,Ποιες είναι οι κυρώσεις σε περίπτωση παράβασης;,20,6,25,20
+EU_AI,Greek,text-embedding-3-large,21,Πώς θα καταρτισθεί ο κώδικας ορθής πρακτικής για την ΤΝ γενικού σκοπού;,21,22,21,21
+EU_AI,Greek,text-embedding-3-large,22,"Εάν εγκριθεί, πώς θα λειτουργήσει ο κώδικας ορθής πρακτικής ως κεντρικό εργαλείο συμμόρφωσης για τους παρόχους μοντέλων ΤΝ γενικού σκοπού;",22,21,21,22
+EU_AI,Greek,text-embedding-3-large,23,Ο κανονισμός για την ΤΝ περιέχει διατάξεις σχετικά με την προστασία του περιβάλλοντος και τη βιωσιμότητα;,23,11,17,23
+EU_AI,Greek,text-embedding-3-large,24,Πώς μπορούν οι νέοι κανόνες να στηρίξουν την καινοτομία;,24,11,1,24
+EU_AI,Greek,text-embedding-3-large,25,Ποιος είναι ο ρόλος που διαδραματίζει το σύμφωνο για την ΤΝ στην εφαρμογή του κανονισμού για την ΤΝ;,25,17,11,25
+EU_AI,Greek,text-embedding-3-large,26,Ποια είναι η διεθνής διάσταση της προσέγγισης της ΕΕ;,26,14,2,26
+EU_AI,Greek,text-embedding-3-small,1,Γιατί πρέπει να ρυθμίσουμε τη χρήση της τεχνητής νοημοσύνης;,16,8,19,16
+EU_AI,Greek,text-embedding-3-small,2,Σε ποιους έχει εφαρμογή ο κανονισμός για την ΤΝ;,17,18,11,17
+EU_AI,Greek,text-embedding-3-small,3,Ποιες είναι οι κατηγορίες κινδύνου;,3,3,4,3
+EU_AI,Greek,text-embedding-3-small,4,Πώς μπορώ να γνωρίζω αν ένα σύστημα ΤΝ είναι υψηλού κινδύνου;,3,3,16,3
+EU_AI,Greek,text-embedding-3-small,5,"Ποια είναι τα παραδείγματα περιπτώσεων χρήσης υψηλού κινδύνου, όπως ορίζονται στο παράρτημα III;",3,3,5,5
+EU_AI,Greek,text-embedding-3-small,6,Ποιες είναι οι υποχρεώσεις των παρόχων συστημάτων ΤΝ υψηλού κινδύνου;,3,3,6,6
+EU_AI,Greek,text-embedding-3-small,7,Ποιος θα ήταν ο ρόλος της τυποποίησης στον κανονισμό για την ΤΝ;,18,19,10,18
+EU_AI,Greek,text-embedding-3-small,8,Πώς ρυθμίζονται τα μοντέλα ΤΝ γενικού σκοπού;,8,22,23,8
+EU_AI,Greek,text-embedding-3-small,9,Γιατί τα 10^25 FLOPS αποτελούν κατάλληλο όριο για την ΤΝ γενικού σκοπού (ΤΝΓΣ) με συστημικούς κινδύνους;,8,9,3,9
+EU_AI,Greek,text-embedding-3-small,10,Ποιες είναι οι υποχρεώσεις που ορίζονται στον κανονισμό για την ΤΝ σχετικά με την υδατογραφική σήμανση και την επισήμανση των προϊόντων της ΤΝ;,10,17,2,10
+EU_AI,Greek,text-embedding-3-small,11,Είναι ο κανονισμός για την ΤΝ ανθεκτικός στις μελλοντικές εξελίξεις;,17,14,11,11
+EU_AI,Greek,text-embedding-3-small,12,Πώς ρυθμίζει ο κανονισμός για την ΤΝ τη βιομετρική ταυτοποίηση;,11,18,23,11
+EU_AI,Greek,text-embedding-3-small,13,Γιατί απαιτούνται ειδικοί κανόνες για την εξ αποστάσεως βιομετρική ταυτοποίηση;,13,16,12,13
+EU_AI,Greek,text-embedding-3-small,14,Πώς προστατεύουν οι κανόνες τα θεμελιώδη δικαιώματα;,14,20,1,14
+EU_AI,Greek,text-embedding-3-small,15,Τι είναι η εκτίμηση επιπτώσεων για τα θεμελιώδη δικαιώματα; Ποιος πρέπει να διενεργεί τέτοια εκτίμηση και πότε;,15,14,12,15
+EU_AI,Greek,text-embedding-3-small,16,Πώς αντιμετωπίζει αυτός ο κανονισμός τις προκαταλήψεις λόγω φυλής και φύλου στην ΤΝ;,1,11,3,1
+EU_AI,Greek,text-embedding-3-small,17,Πότε θα τεθεί σε πλήρη εφαρμογή ο κανονισμός για την ΤΝ;,17,10,11,17
+EU_AI,Greek,text-embedding-3-small,18,Πώς θα επιβάλλεται ο κανονισμός για την ΤΝ;,17,11,20,17
+EU_AI,Greek,text-embedding-3-small,19,Γιατί χρειάζεται το Ευρωπαϊκό Συμβούλιο Τεχνητής Νοημοσύνης και τι θα κάνει;,19,18,26,19
+EU_AI,Greek,text-embedding-3-small,20,Ποιες είναι οι κυρώσεις σε περίπτωση παράβασης;,3,20,6,20
+EU_AI,Greek,text-embedding-3-small,21,Πώς θα καταρτισθεί ο κώδικας ορθής πρακτικής για την ΤΝ γενικού σκοπού;,22,21,10,21
+EU_AI,Greek,text-embedding-3-small,22,"Εάν εγκριθεί, πώς θα λειτουργήσει ο κώδικας ορθής πρακτικής ως κεντρικό εργαλείο συμμόρφωσης για τους παρόχους μοντέλων ΤΝ γενικού σκοπού;",22,8,21,22
+EU_AI,Greek,text-embedding-3-small,23,Ο κανονισμός για την ΤΝ περιέχει διατάξεις σχετικά με την προστασία του περιβάλλοντος και τη βιωσιμότητα;,20,23,14,23
+EU_AI,Greek,text-embedding-3-small,24,Πώς μπορούν οι νέοι κανόνες να στηρίξουν την καινοτομία;,24,14,1,24
+EU_AI,Greek,text-embedding-3-small,25,Ποιος είναι ο ρόλος που διαδραματίζει το σύμφωνο για την ΤΝ στην εφαρμογή του κανονισμού για την ΤΝ;,18,19,22,18
+EU_AI,Greek,text-embedding-3-small,26,Ποια είναι η διεθνής διάσταση της προσέγγισης της ΕΕ;,26,25,23,26
+EU_AI,Greek,text-embedding-ada-002,1,Γιατί πρέπει να ρυθμίσουμε τη χρήση της τεχνητής νοημοσύνης;,16,12,3,16
+EU_AI,Greek,text-embedding-ada-002,2,Σε ποιους έχει εφαρμογή ο κανονισμός για την ΤΝ;,18,11,2,2
+EU_AI,Greek,text-embedding-ada-002,3,Ποιες είναι οι κατηγορίες κινδύνου;,3,3,15,3
+EU_AI,Greek,text-embedding-ada-002,4,Πώς μπορώ να γνωρίζω αν ένα σύστημα ΤΝ είναι υψηλού κινδύνου;,3,4,15,4
+EU_AI,Greek,text-embedding-ada-002,5,"Ποια είναι τα παραδείγματα περιπτώσεων χρήσης υψηλού κινδύνου, όπως ορίζονται στο παράρτημα III;",3,5,15,5
+EU_AI,Greek,text-embedding-ada-002,6,Ποιες είναι οι υποχρεώσεις των παρόχων συστημάτων ΤΝ υψηλού κινδύνου;,3,15,4,3
+EU_AI,Greek,text-embedding-ada-002,7,Ποιος θα ήταν ο ρόλος της τυποποίησης στον κανονισμό για την ΤΝ;,18,11,23,18
+EU_AI,Greek,text-embedding-ada-002,8,Πώς ρυθμίζονται τα μοντέλα ΤΝ γενικού σκοπού;,8,21,24,8
+EU_AI,Greek,text-embedding-ada-002,9,Γιατί τα 10^25 FLOPS αποτελούν κατάλληλο όριο για την ΤΝ γενικού σκοπού (ΤΝΓΣ) με συστημικούς κινδύνους;,9,8,3,9
+EU_AI,Greek,text-embedding-ada-002,10,Ποιες είναι οι υποχρεώσεις που ορίζονται στον κανονισμό για την ΤΝ σχετικά με την υδατογραφική σήμανση και την επισήμανση των προϊόντων της ΤΝ;,10,17,18,10
+EU_AI,Greek,text-embedding-ada-002,11,Είναι ο κανονισμός για την ΤΝ ανθεκτικός στις μελλοντικές εξελίξεις;,18,11,23,11
+EU_AI,Greek,text-embedding-ada-002,12,Πώς ρυθμίζει ο κανονισμός για την ΤΝ τη βιομετρική ταυτοποίηση;,11,18,24,11
+EU_AI,Greek,text-embedding-ada-002,13,Γιατί απαιτούνται ειδικοί κανόνες για την εξ αποστάσεως βιομετρική ταυτοποίηση;,12,13,3,13
+EU_AI,Greek,text-embedding-ada-002,14,Πώς προστατεύουν οι κανόνες τα θεμελιώδη δικαιώματα;,20,14,1,14
+EU_AI,Greek,text-embedding-ada-002,15,Τι είναι η εκτίμηση επιπτώσεων για τα θεμελιώδη δικαιώματα; Ποιος πρέπει να διενεργεί τέτοια εκτίμηση και πότε;,15,3,14,15
+EU_AI,Greek,text-embedding-ada-002,16,Πώς αντιμετωπίζει αυτός ο κανονισμός τις προκαταλήψεις λόγω φυλής και φύλου στην ΤΝ;,11,3,1,11
+EU_AI,Greek,text-embedding-ada-002,17,Πότε θα τεθεί σε πλήρη εφαρμογή ο κανονισμός για την ΤΝ;,17,11,25,17
+EU_AI,Greek,text-embedding-ada-002,18,Πώς θα επιβάλλεται ο κανονισμός για την ΤΝ;,18,11,17,18
+EU_AI,Greek,text-embedding-ada-002,19,Γιατί χρειάζεται το Ευρωπαϊκό Συμβούλιο Τεχνητής Νοημοσύνης και τι θα κάνει;,19,26,3,19
+EU_AI,Greek,text-embedding-ada-002,20,Ποιες είναι οι κυρώσεις σε περίπτωση παράβασης;,20,16,22,20
+EU_AI,Greek,text-embedding-ada-002,21,Πώς θα καταρτισθεί ο κώδικας ορθής πρακτικής για την ΤΝ γενικού σκοπού;,22,21,24,21
+EU_AI,Greek,text-embedding-ada-002,22,"Εάν εγκριθεί, πώς θα λειτουργήσει ο κώδικας ορθής πρακτικής ως κεντρικό εργαλείο συμμόρφωσης για τους παρόχους μοντέλων ΤΝ γενικού σκοπού;",22,21,21,22
+EU_AI,Greek,text-embedding-ada-002,23,Ο κανονισμός για την ΤΝ περιέχει διατάξεις σχετικά με την προστασία του περιβάλλοντος και τη βιωσιμότητα;,23,1,11,23
+EU_AI,Greek,text-embedding-ada-002,24,Πώς μπορούν οι νέοι κανόνες να στηρίξουν την καινοτομία;,24,20,11,24
+EU_AI,Greek,text-embedding-ada-002,25,Ποιος είναι ο ρόλος που διαδραματίζει το σύμφωνο για την ΤΝ στην εφαρμογή του κανονισμού για την ΤΝ;,25,18,23,25
+EU_AI,Greek,text-embedding-ada-002,26,Ποια είναι η διεθνής διάσταση της προσέγγισης της ΕΕ;,26,18,19,26
+EU_AI,Hungarian,text-embedding-3-large,1,Miért kell szabályozni a mesterséges intelligencia használatát?,3,1,24,1
+EU_AI,Hungarian,text-embedding-3-large,2,Kikre vonatkozik a mesterséges intelligenciáról szóló jogszabály?,17,1,11,17
+EU_AI,Hungarian,text-embedding-3-large,3,Melyek a kockázati kategóriák?,4,15,3,3
+EU_AI,Hungarian,text-embedding-3-large,4,"Hogyan tudom eldönteni, hogy egy MI-rendszer magas kockázatú-e?",4,6,15,4
+EU_AI,Hungarian,text-embedding-3-large,5,Melyek a III. mellékletben meghatározott magas kockázatú felhasználási esetek példái?,5,3,4,5
+EU_AI,Hungarian,text-embedding-3-large,6,Milyen kötelezettségek terhelik a magas kockázatú MI-rendszerek szolgáltatóit?,15,6,8,6
+EU_AI,Hungarian,text-embedding-3-large,7,Milyen szerepet fog játszani a szabványosítás a mesterséges intelligenciáról szóló jogszabály esetében?,7,11,23,7
+EU_AI,Hungarian,text-embedding-3-large,8,Hogyan lesznek szabályozva az általános célú MI-modellek?,8,23,3,8
+EU_AI,Hungarian,text-embedding-3-large,9,Miért jelent a 10^25 FLOPS megfelelő küszöbértéket a rendszerszintű kockázatot jelentő általános célú MI-rendszerek esetében?,8,9,3,9
+EU_AI,Hungarian,text-embedding-3-large,10,A mesterséges intelligenciáról szóló jogszabály milyen kötelezettségeket határoz meg az MI-kimenetek vízjelölésére és címkézésére vonatkozóan?,4,17,10,10
+EU_AI,Hungarian,text-embedding-3-large,11,Időtálló-e a mesterséges intelligenciáról szóló jogszabály?,17,11,1,11
+EU_AI,Hungarian,text-embedding-3-large,12,Hogyan szabályozza a mesterséges intelligenciáról szóló jogszabály a biometrikus azonosítást?,3,3,1,3
+EU_AI,Hungarian,text-embedding-3-large,13,Miért van szükség különleges szabályokra a távoli biometrikus azonosítás esetében?,13,12,3,13
+EU_AI,Hungarian,text-embedding-3-large,14,Hogyan védik a szabályok az alapvető jogokat?,14,1,15,14
+EU_AI,Hungarian,text-embedding-3-large,15,"Mit jelent pontosan az alapvető jogokra vonatkozó hatásvizsgálat? Kinek kell elvégeznie az ilyen típusú vizsgálatot, és mikor?",15,14,24,15
+EU_AI,Hungarian,text-embedding-3-large,16,Hogyan kezeli a rendelet a fajon vagy nemen alapuló méltánytalan előítéletek kérdését a mesterséges intelligencia összefüggésében?,16,14,3,16
+EU_AI,Hungarian,text-embedding-3-large,17,Mikor lesz teljes mértékben alkalmazandó a mesterséges intelligenciáról szóló jogszabály?,17,1,11,17
+EU_AI,Hungarian,text-embedding-3-large,18,Hogyan kerül érvényesítésre a mesterséges intelligenciáról szóló jogszabály?,17,11,1,17
+EU_AI,Hungarian,text-embedding-3-large,19,"Miért van szükség a Mesterséges Intelligenciával Foglalkozó Európai Testületre, és mi lesz a feladata?",19,18,1,19
+EU_AI,Hungarian,text-embedding-3-large,20,Milyen szankciókra lehet számítani jogsértés esetén?,20,6,14,20
+EU_AI,Hungarian,text-embedding-3-large,21,Hogyan készül az általános célú MI-re vonatkozó gyakorlati kódex?,21,22,8,21
+EU_AI,Hungarian,text-embedding-3-large,22,Jóváhagyás esetén hogyan szolgál az általános célú MI-modellek szolgáltatóira vonatkozó gyakorlati kódex a megfelelés központi eszközeként?,22,21,8,22
+EU_AI,Hungarian,text-embedding-3-large,23,Tartalmaz-e a mesterséges intelligenciáról szóló jogszabály a környezetvédelemre és a fenntarthatóságra vonatkozó rendelkezéseket?,23,11,1,23
+EU_AI,Hungarian,text-embedding-3-large,24,Hogyan segíthetik elő az új szabályok az innovációt?,24,11,25,24
+EU_AI,Hungarian,text-embedding-3-large,25,Milyen szerepet játszik a mesterséges intelligenciáról szóló paktum a mesterséges intelligenciáról szóló jogszabály végrehajtásában?,25,11,18,25
+EU_AI,Hungarian,text-embedding-3-large,26,Mi az uniós megközelítés nemzetközi dimenziója?,26,14,1,26
+EU_AI,Hungarian,text-embedding-3-small,1,Miért kell szabályozni a mesterséges intelligencia használatát?,14,11,1,1
+EU_AI,Hungarian,text-embedding-3-small,2,Kikre vonatkozik a mesterséges intelligenciáról szóló jogszabály?,11,3,14,11
+EU_AI,Hungarian,text-embedding-3-small,3,Melyek a kockázati kategóriák?,15,4,3,3
+EU_AI,Hungarian,text-embedding-3-small,4,"Hogyan tudom eldönteni, hogy egy MI-rendszer magas kockázatú-e?",15,6,3,15
+EU_AI,Hungarian,text-embedding-3-small,5,Melyek a III. mellékletben meghatározott magas kockázatú felhasználási esetek példái?,5,3,4,5
+EU_AI,Hungarian,text-embedding-3-small,6,Milyen kötelezettségek terhelik a magas kockázatú MI-rendszerek szolgáltatóit?,15,6,20,6
+EU_AI,Hungarian,text-embedding-3-small,7,Milyen szerepet fog játszani a szabványosítás a mesterséges intelligenciáról szóló jogszabály esetében?,11,7,14,7
+EU_AI,Hungarian,text-embedding-3-small,8,Hogyan lesznek szabályozva az általános célú MI-modellek?,8,23,22,8
+EU_AI,Hungarian,text-embedding-3-small,9,Miért jelent a 10^25 FLOPS megfelelő küszöbértéket a rendszerszintű kockázatot jelentő általános célú MI-rendszerek esetében?,3,8,9,9
+EU_AI,Hungarian,text-embedding-3-small,10,A mesterséges intelligenciáról szóló jogszabály milyen kötelezettségeket határoz meg az MI-kimenetek vízjelölésére és címkézésére vonatkozóan?,10,14,11,10
+EU_AI,Hungarian,text-embedding-3-small,11,Időtálló-e a mesterséges intelligenciáról szóló jogszabály?,11,25,3,11
+EU_AI,Hungarian,text-embedding-3-small,12,Hogyan szabályozza a mesterséges intelligenciáról szóló jogszabály a biometrikus azonosítást?,11,13,12,12
+EU_AI,Hungarian,text-embedding-3-small,13,Miért van szükség különleges szabályokra a távoli biometrikus azonosítás esetében?,13,12,3,13
+EU_AI,Hungarian,text-embedding-3-small,14,Hogyan védik a szabályok az alapvető jogokat?,11,14,1,14
+EU_AI,Hungarian,text-embedding-3-small,15,"Mit jelent pontosan az alapvető jogokra vonatkozó hatásvizsgálat? Kinek kell elvégeznie az ilyen típusú vizsgálatot, és mikor?",15,14,11,15
+EU_AI,Hungarian,text-embedding-3-small,16,Hogyan kezeli a rendelet a fajon vagy nemen alapuló méltánytalan előítéletek kérdését a mesterséges intelligencia összefüggésében?,14,11,3,14
+EU_AI,Hungarian,text-embedding-3-small,17,Mikor lesz teljes mértékben alkalmazandó a mesterséges intelligenciáról szóló jogszabály?,11,7,14,11
+EU_AI,Hungarian,text-embedding-3-small,18,Hogyan kerül érvényesítésre a mesterséges intelligenciáról szóló jogszabály?,11,3,25,11
+EU_AI,Hungarian,text-embedding-3-small,19,"Miért van szükség a Mesterséges Intelligenciával Foglalkozó Európai Testületre, és mi lesz a feladata?",19,18,26,19
+EU_AI,Hungarian,text-embedding-3-small,20,Milyen szankciókra lehet számítani jogsértés esetén?,20,12,6,20
+EU_AI,Hungarian,text-embedding-3-small,21,Hogyan készül az általános célú MI-re vonatkozó gyakorlati kódex?,21,22,8,21
+EU_AI,Hungarian,text-embedding-3-small,22,Jóváhagyás esetén hogyan szolgál az általános célú MI-modellek szolgáltatóira vonatkozó gyakorlati kódex a megfelelés központi eszközeként?,22,8,21,22
+EU_AI,Hungarian,text-embedding-3-small,23,Tartalmaz-e a mesterséges intelligenciáról szóló jogszabály a környezetvédelemre és a fenntarthatóságra vonatkozó rendelkezéseket?,11,3,7,11
+EU_AI,Hungarian,text-embedding-3-small,24,Hogyan segíthetik elő az új szabályok az innovációt?,11,25,7,11
+EU_AI,Hungarian,text-embedding-3-small,25,Milyen szerepet játszik a mesterséges intelligenciáról szóló paktum a mesterséges intelligenciáról szóló jogszabály végrehajtásában?,25,25,11,25
+EU_AI,Hungarian,text-embedding-3-small,26,Mi az uniós megközelítés nemzetközi dimenziója?,26,1,2,26
+EU_AI,Hungarian,text-embedding-ada-002,1,Miért kell szabályozni a mesterséges intelligencia használatát?,24,11,14,24
+EU_AI,Hungarian,text-embedding-ada-002,2,Kikre vonatkozik a mesterséges intelligenciáról szóló jogszabály?,11,3,14,11
+EU_AI,Hungarian,text-embedding-ada-002,3,Melyek a kockázati kategóriák?,15,4,3,3
+EU_AI,Hungarian,text-embedding-ada-002,4,"Hogyan tudom eldönteni, hogy egy MI-rendszer magas kockázatú-e?",15,16,4,4
+EU_AI,Hungarian,text-embedding-ada-002,5,Melyek a III. mellékletben meghatározott magas kockázatú felhasználási esetek példái?,4,5,15,5
+EU_AI,Hungarian,text-embedding-ada-002,6,Milyen kötelezettségek terhelik a magas kockázatú MI-rendszerek szolgáltatóit?,15,6,16,6
+EU_AI,Hungarian,text-embedding-ada-002,7,Milyen szerepet fog játszani a szabványosítás a mesterséges intelligenciáról szóló jogszabály esetében?,11,7,24,7
+EU_AI,Hungarian,text-embedding-ada-002,8,Hogyan lesznek szabályozva az általános célú MI-modellek?,8,23,22,8
+EU_AI,Hungarian,text-embedding-ada-002,9,Miért jelent a 10^25 FLOPS megfelelő küszöbértéket a rendszerszintű kockázatot jelentő általános célú MI-rendszerek esetében?,9,3,16,9
+EU_AI,Hungarian,text-embedding-ada-002,10,A mesterséges intelligenciáról szóló jogszabály milyen kötelezettségeket határoz meg az MI-kimenetek vízjelölésére és címkézésére vonatkozóan?,11,7,10,10
+EU_AI,Hungarian,text-embedding-ada-002,11,Időtálló-e a mesterséges intelligenciáról szóló jogszabály?,11,24,14,11
+EU_AI,Hungarian,text-embedding-ada-002,12,Hogyan szabályozza a mesterséges intelligenciáról szóló jogszabály a biometrikus azonosítást?,11,24,7,11
+EU_AI,Hungarian,text-embedding-ada-002,13,Miért van szükség különleges szabályokra a távoli biometrikus azonosítás esetében?,13,12,24,13
+EU_AI,Hungarian,text-embedding-ada-002,14,Hogyan védik a szabályok az alapvető jogokat?,1,11,14,14
+EU_AI,Hungarian,text-embedding-ada-002,15,"Mit jelent pontosan az alapvető jogokra vonatkozó hatásvizsgálat? Kinek kell elvégeznie az ilyen típusú vizsgálatot, és mikor?",15,24,2,15
+EU_AI,Hungarian,text-embedding-ada-002,16,Hogyan kezeli a rendelet a fajon vagy nemen alapuló méltánytalan előítéletek kérdését a mesterséges intelligencia összefüggésében?,11,14,24,11
+EU_AI,Hungarian,text-embedding-ada-002,17,Mikor lesz teljes mértékben alkalmazandó a mesterséges intelligenciáról szóló jogszabály?,11,7,24,11
+EU_AI,Hungarian,text-embedding-ada-002,18,Hogyan kerül érvényesítésre a mesterséges intelligenciáról szóló jogszabály?,11,24,7,11
+EU_AI,Hungarian,text-embedding-ada-002,19,"Miért van szükség a Mesterséges Intelligenciával Foglalkozó Európai Testületre, és mi lesz a feladata?",19,18,26,19
+EU_AI,Hungarian,text-embedding-ada-002,20,Milyen szankciókra lehet számítani jogsértés esetén?,20,15,2,20
+EU_AI,Hungarian,text-embedding-ada-002,21,Hogyan készül az általános célú MI-re vonatkozó gyakorlati kódex?,22,21,8,21
+EU_AI,Hungarian,text-embedding-ada-002,22,Jóváhagyás esetén hogyan szolgál az általános célú MI-modellek szolgáltatóira vonatkozó gyakorlati kódex a megfelelés központi eszközeként?,22,8,21,22
+EU_AI,Hungarian,text-embedding-ada-002,23,Tartalmaz-e a mesterséges intelligenciáról szóló jogszabály a környezetvédelemre és a fenntarthatóságra vonatkozó rendelkezéseket?,11,14,1,11
+EU_AI,Hungarian,text-embedding-ada-002,24,Hogyan segíthetik elő az új szabályok az innovációt?,24,1,25,24
+EU_AI,Hungarian,text-embedding-ada-002,25,Milyen szerepet játszik a mesterséges intelligenciáról szóló paktum a mesterséges intelligenciáról szóló jogszabály végrehajtásában?,25,25,11,25
+EU_AI,Hungarian,text-embedding-ada-002,26,Mi az uniós megközelítés nemzetközi dimenziója?,26,1,14,26
+EU_AI,Italian,text-embedding-3-large,1,Perché è necessario regolamentare l'uso dell'intelligenza artificiale?,1,14,3,1
+EU_AI,Italian,text-embedding-3-large,2,A chi si applica la legge sull'IA?,17,4,2,2
+EU_AI,Italian,text-embedding-3-large,3,Quali sono le categorie di rischio?,4,5,3,3
+EU_AI,Italian,text-embedding-3-large,4,Come sapere se un sistema di IA è ad alto rischio?,5,4,3,4
+EU_AI,Italian,text-embedding-3-large,5,Quali sono gli esempi di casi d'uso ad alto rischio definiti nell'allegato III?,5,3,4,5
+EU_AI,Italian,text-embedding-3-large,6,Quali sono gli obblighi per i fornitori di sistemi di IA ad alto rischio?,6,15,4,6
+EU_AI,Italian,text-embedding-3-large,7,Quale sarebbe il ruolo della normazione nella legge sull'IA?,7,24,11,7
+EU_AI,Italian,text-embedding-3-large,8,Come sono regolamentati i modelli di IA per finalità generali?,8,22,4,8
+EU_AI,Italian,text-embedding-3-large,9,Per quale motivo 10^25 FLOPS è una soglia adeguata per l'IA per finalità generali con rischi sistemici?,9,8,3,9
+EU_AI,Italian,text-embedding-3-large,10,Quali sono gli obblighi relativi all'aggiunta di filigrane digitali e all'etichettatura dell'output dell'IA stabiliti nella legge sull'IA?,10,17,22,10
+EU_AI,Italian,text-embedding-3-large,11,La legge sull'IA è adeguata alle esigenze future?,11,1,24,11
+EU_AI,Italian,text-embedding-3-large,12,Come è disciplinata l'identificazione biometrica nella legge sull'IA?,12,13,3,12
+EU_AI,Italian,text-embedding-3-large,13,Perché sono necessarie regole particolari per l'identificazione biometrica remota?,13,12,3,13
+EU_AI,Italian,text-embedding-3-large,14,In che modo le regole tutelano i diritti fondamentali?,1,14,23,14
+EU_AI,Italian,text-embedding-3-large,15,Cos'è una valutazione d'impatto sui diritti fondamentali? Chi deve effettuare tale valutazione? Quando deve essere effettuata?,15,14,6,15
+EU_AI,Italian,text-embedding-3-large,16,In che modo questo regolamento affronta le distorsioni nell'IA legate al genere o alla razza?,16,14,2,16
+EU_AI,Italian,text-embedding-3-large,17,Quando sarà pienamente applicabile la legge sull'IA?,17,25,24,17
+EU_AI,Italian,text-embedding-3-large,18,In che modo sarà applicata la legge sull'IA?,17,4,1,17
+EU_AI,Italian,text-embedding-3-large,19,Perché è necessario un consiglio europeo per l'intelligenza artificiale e di cosa si occuperà?,19,18,26,19
+EU_AI,Italian,text-embedding-3-large,20,Quali sono le sanzioni in caso di violazione?,20,6,22,20
+EU_AI,Italian,text-embedding-3-large,21,In che modo sarà elaborato il codice di buone pratiche in materia di IA per finalità generali?,22,21,21,21
+EU_AI,Italian,text-embedding-3-large,22,"Se approvato, in che modo il codice di buone pratiche per i fornitori di modelli di IA per finalità generali funge da strumento centrale per la conformità?",22,21,21,22
+EU_AI,Italian,text-embedding-3-large,23,La legge sull'IA contiene disposizioni in materia di protezione ambientale e sostenibilità?,23,11,1,23
+EU_AI,Italian,text-embedding-3-large,24,In che modo le nuove regole possono sostenere l'innovazione?,24,11,25,24
+EU_AI,Italian,text-embedding-3-large,25,Quale ruolo svolge il patto per l'IA nell'attuazione della legge sull'IA?,25,18,24,25
+EU_AI,Italian,text-embedding-3-large,26,Qual è la dimensione internazionale dell'approccio dell'UE?,26,25,1,26
+EU_AI,Italian,text-embedding-3-small,1,Perché è necessario regolamentare l'uso dell'intelligenza artificiale?,3,24,18,3
+EU_AI,Italian,text-embedding-3-small,2,A chi si applica la legge sull'IA?,17,11,24,17
+EU_AI,Italian,text-embedding-3-small,3,Quali sono le categorie di rischio?,5,4,3,3
+EU_AI,Italian,text-embedding-3-small,4,Come sapere se un sistema di IA è ad alto rischio?,6,4,3,4
+EU_AI,Italian,text-embedding-3-small,5,Quali sono gli esempi di casi d'uso ad alto rischio definiti nell'allegato III?,5,3,4,5
+EU_AI,Italian,text-embedding-3-small,6,Quali sono gli obblighi per i fornitori di sistemi di IA ad alto rischio?,6,15,8,6
+EU_AI,Italian,text-embedding-3-small,7,Quale sarebbe il ruolo della normazione nella legge sull'IA?,11,18,1,11
+EU_AI,Italian,text-embedding-3-small,8,Come sono regolamentati i modelli di IA per finalità generali?,8,2,24,8
+EU_AI,Italian,text-embedding-3-small,9,Per quale motivo 10^25 FLOPS è una soglia adeguata per l'IA per finalità generali con rischi sistemici?,8,3,5,8
+EU_AI,Italian,text-embedding-3-small,10,Quali sono gli obblighi relativi all'aggiunta di filigrane digitali e all'etichettatura dell'output dell'IA stabiliti nella legge sull'IA?,10,17,11,10
+EU_AI,Italian,text-embedding-3-small,11,La legge sull'IA è adeguata alle esigenze future?,11,17,1,11
+EU_AI,Italian,text-embedding-3-small,12,Come è disciplinata l'identificazione biometrica nella legge sull'IA?,12,13,3,12
+EU_AI,Italian,text-embedding-3-small,13,Perché sono necessarie regole particolari per l'identificazione biometrica remota?,12,13,3,13
+EU_AI,Italian,text-embedding-3-small,14,In che modo le regole tutelano i diritti fondamentali?,14,1,24,14
+EU_AI,Italian,text-embedding-3-small,15,Cos'è una valutazione d'impatto sui diritti fondamentali? Chi deve effettuare tale valutazione? Quando deve essere effettuata?,15,14,23,15
+EU_AI,Italian,text-embedding-3-small,16,In che modo questo regolamento affronta le distorsioni nell'IA legate al genere o alla razza?,16,14,10,16
+EU_AI,Italian,text-embedding-3-small,17,Quando sarà pienamente applicabile la legge sull'IA?,17,25,24,17
+EU_AI,Italian,text-embedding-3-small,18,In che modo sarà applicata la legge sull'IA?,17,11,24,17
+EU_AI,Italian,text-embedding-3-small,19,Perché è necessario un consiglio europeo per l'intelligenza artificiale e di cosa si occuperà?,19,18,26,19
+EU_AI,Italian,text-embedding-3-small,20,Quali sono le sanzioni in caso di violazione?,20,6,3,20
+EU_AI,Italian,text-embedding-3-small,21,In che modo sarà elaborato il codice di buone pratiche in materia di IA per finalità generali?,22,21,21,21
+EU_AI,Italian,text-embedding-3-small,22,"Se approvato, in che modo il codice di buone pratiche per i fornitori di modelli di IA per finalità generali funge da strumento centrale per la conformità?",22,21,21,22
+EU_AI,Italian,text-embedding-3-small,23,La legge sull'IA contiene disposizioni in materia di protezione ambientale e sostenibilità?,11,1,23,23
+EU_AI,Italian,text-embedding-3-small,24,In che modo le nuove regole possono sostenere l'innovazione?,11,24,22,24
+EU_AI,Italian,text-embedding-3-small,25,Quale ruolo svolge il patto per l'IA nell'attuazione della legge sull'IA?,25,18,24,25
+EU_AI,Italian,text-embedding-3-small,26,Qual è la dimensione internazionale dell'approccio dell'UE?,26,14,1,26
+EU_AI,Italian,text-embedding-ada-002,1,Perché è necessario regolamentare l'uso dell'intelligenza artificiale?,24,3,18,24
+EU_AI,Italian,text-embedding-ada-002,2,A chi si applica la legge sull'IA?,2,17,11,2
+EU_AI,Italian,text-embedding-ada-002,3,Quali sono le categorie di rischio?,4,5,3,3
+EU_AI,Italian,text-embedding-ada-002,4,Come sapere se un sistema di IA è ad alto rischio?,6,4,16,4
+EU_AI,Italian,text-embedding-ada-002,5,Quali sono gli esempi di casi d'uso ad alto rischio definiti nell'allegato III?,5,3,4,5
+EU_AI,Italian,text-embedding-ada-002,6,Quali sono gli obblighi per i fornitori di sistemi di IA ad alto rischio?,6,15,7,6
+EU_AI,Italian,text-embedding-ada-002,7,Quale sarebbe il ruolo della normazione nella legge sull'IA?,11,24,18,11
+EU_AI,Italian,text-embedding-ada-002,8,Come sono regolamentati i modelli di IA per finalità generali?,8,23,22,8
+EU_AI,Italian,text-embedding-ada-002,9,Per quale motivo 10^25 FLOPS è una soglia adeguata per l'IA per finalità generali con rischi sistemici?,9,8,16,9
+EU_AI,Italian,text-embedding-ada-002,10,Quali sono gli obblighi relativi all'aggiunta di filigrane digitali e all'etichettatura dell'output dell'IA stabiliti nella legge sull'IA?,10,11,2,10
+EU_AI,Italian,text-embedding-ada-002,11,La legge sull'IA è adeguata alle esigenze future?,11,3,1,11
+EU_AI,Italian,text-embedding-ada-002,12,Come è disciplinata l'identificazione biometrica nella legge sull'IA?,12,13,3,12
+EU_AI,Italian,text-embedding-ada-002,13,Perché sono necessarie regole particolari per l'identificazione biometrica remota?,12,13,3,13
+EU_AI,Italian,text-embedding-ada-002,14,In che modo le regole tutelano i diritti fondamentali?,14,1,15,14
+EU_AI,Italian,text-embedding-ada-002,15,Cos'è una valutazione d'impatto sui diritti fondamentali? Chi deve effettuare tale valutazione? Quando deve essere effettuata?,15,14,23,15
+EU_AI,Italian,text-embedding-ada-002,16,In che modo questo regolamento affronta le distorsioni nell'IA legate al genere o alla razza?,16,10,14,16
+EU_AI,Italian,text-embedding-ada-002,17,Quando sarà pienamente applicabile la legge sull'IA?,17,7,25,17
+EU_AI,Italian,text-embedding-ada-002,18,In che modo sarà applicata la legge sull'IA?,17,11,2,17
+EU_AI,Italian,text-embedding-ada-002,19,Perché è necessario un consiglio europeo per l'intelligenza artificiale e di cosa si occuperà?,19,18,26,19
+EU_AI,Italian,text-embedding-ada-002,20,Quali sono le sanzioni in caso di violazione?,20,12,17,20
+EU_AI,Italian,text-embedding-ada-002,21,In che modo sarà elaborato il codice di buone pratiche in materia di IA per finalità generali?,21,22,21,21
+EU_AI,Italian,text-embedding-ada-002,22,"Se approvato, in che modo il codice di buone pratiche per i fornitori di modelli di IA per finalità generali funge da strumento centrale per la conformità?",22,21,21,22
+EU_AI,Italian,text-embedding-ada-002,23,La legge sull'IA contiene disposizioni in materia di protezione ambientale e sostenibilità?,11,23,1,23
+EU_AI,Italian,text-embedding-ada-002,24,In che modo le nuove regole possono sostenere l'innovazione?,24,11,1,24
+EU_AI,Italian,text-embedding-ada-002,25,Quale ruolo svolge il patto per l'IA nell'attuazione della legge sull'IA?,25,11,18,25
+EU_AI,Italian,text-embedding-ada-002,26,Qual è la dimensione internazionale dell'approccio dell'UE?,26,14,23,26
+EU_AI,Romanian,text-embedding-3-large,1,De ce este necesar să se reglementeze utilizarea inteligenței artificiale?,1,16,3,1
+EU_AI,Romanian,text-embedding-3-large,2,Cui i se va aplica Regulamentul privind IA?,17,2,1,2
+EU_AI,Romanian,text-embedding-3-large,3,Care sunt categoriile de risc?,4,3,3,3
+EU_AI,Romanian,text-embedding-3-large,4,Cum știu dacă un sistem de IA prezintă un grad ridicat de risc?,15,3,4,4
+EU_AI,Romanian,text-embedding-3-large,5,"Exemple de cazuri de utilizare cu grad ridicat de risc, astfel cum sunt definite în anexa III",5,3,4,5
+EU_AI,Romanian,text-embedding-3-large,6,Ce obligații au furnizorii de sisteme de IA care prezintă un grad ridicat de risc?,15,6,8,6
+EU_AI,Romanian,text-embedding-3-large,7,Care ar fi rolul standardizării în Regulamentul privind IA?,11,7,23,7
+EU_AI,Romanian,text-embedding-3-large,8,Cum sunt reglementate modelele de IA de uz general?,8,11,24,8
+EU_AI,Romanian,text-embedding-3-large,9,De ce este 10^25 FLOP un prag adecvat pentru sistemele de IA de uz general cu riscuri sistemice?,9,8,3,9
+EU_AI,Romanian,text-embedding-3-large,10,Care sunt obligațiile în ceea ce privește marcarea și etichetarea rezultatelor IA prevăzute în Regulamentul privind IA?,10,6,22,10
+EU_AI,Romanian,text-embedding-3-large,11,Este Regulamentul privind IA adaptat exigențelor viitorului?,11,1,7,11
+EU_AI,Romanian,text-embedding-3-large,12,Cum se reglementează identificarea biometrică în Regulamentul privind IA?,13,12,3,12
+EU_AI,Romanian,text-embedding-3-large,13,De ce sunt necesare norme speciale pentru identificarea biometrică la distanță?,13,12,3,13
+EU_AI,Romanian,text-embedding-3-large,14,Cum protejează normele drepturile fundamentale?,14,15,23,14
+EU_AI,Romanian,text-embedding-3-large,15,Ce presupune evaluarea impactului asupra drepturilor fundamentale? Cine trebuie să efectueze o astfel de evaluare și când?,15,14,6,15
+EU_AI,Romanian,text-embedding-3-large,16,Cum abordează regulamentul prejudecățile rasiale și de gen în domeniul IA?,16,14,2,16
+EU_AI,Romanian,text-embedding-3-large,17,Când va fi pe deplin aplicabil Regulamentul privind IA?,17,25,7,17
+EU_AI,Romanian,text-embedding-3-large,18,Cum se va asigura respectarea măsurilor propuse?,22,20,23,22
+EU_AI,Romanian,text-embedding-3-large,19,De ce este necesar un comitet european pentru inteligența artificială și cu ce se va ocupa?,19,18,25,19
+EU_AI,Romanian,text-embedding-3-large,20,Ce sancțiuni se aplică în cazul nerespectării normelor?,20,22,17,20
+EU_AI,Romanian,text-embedding-3-large,21,Cum va fi redactat Codul de bune practici privind IA de uz general?,22,21,8,21
+EU_AI,Romanian,text-embedding-3-large,22,"Dacă este aprobat, cum servește Codul de bune practici drept instrument central de conformitate pentru furnizorii de modele de IA de uz general ?",22,8,21,22
+EU_AI,Romanian,text-embedding-3-large,23,Regulamentul privind IA conține dispoziții privind protecția mediului și sustenabilitatea?,23,11,1,23
+EU_AI,Romanian,text-embedding-3-large,24,Cum pot noile norme să sprijine inovarea?,11,24,7,24
+EU_AI,Romanian,text-embedding-3-large,25,Ce rol joacă Pactul privind IA în punerea în aplicare a Regulamentului privind IA?,25,18,11,25
+EU_AI,Romanian,text-embedding-3-large,26,Care este dimensiunea internațională a abordării UE?,26,1,25,26
+EU_AI,Romanian,text-embedding-3-small,1,De ce este necesar să se reglementeze utilizarea inteligenței artificiale?,1,3,16,1
+EU_AI,Romanian,text-embedding-3-small,2,Cui i se va aplica Regulamentul privind IA?,17,2,11,2
+EU_AI,Romanian,text-embedding-3-small,3,Care sunt categoriile de risc?,4,3,5,3
+EU_AI,Romanian,text-embedding-3-small,4,Cum știu dacă un sistem de IA prezintă un grad ridicat de risc?,3,4,16,4
+EU_AI,Romanian,text-embedding-3-small,5,"Exemple de cazuri de utilizare cu grad ridicat de risc, astfel cum sunt definite în anexa III",5,4,3,5
+EU_AI,Romanian,text-embedding-3-small,6,Ce obligații au furnizorii de sisteme de IA care prezintă un grad ridicat de risc?,6,15,8,6
+EU_AI,Romanian,text-embedding-3-small,7,Care ar fi rolul standardizării în Regulamentul privind IA?,11,18,23,11
+EU_AI,Romanian,text-embedding-3-small,8,Cum sunt reglementate modelele de IA de uz general?,8,3,22,8
+EU_AI,Romanian,text-embedding-3-small,9,De ce este 10^25 FLOP un prag adecvat pentru sistemele de IA de uz general cu riscuri sistemice?,8,3,16,8
+EU_AI,Romanian,text-embedding-3-small,10,Care sunt obligațiile în ceea ce privește marcarea și etichetarea rezultatelor IA prevăzute în Regulamentul privind IA?,10,23,24,10
+EU_AI,Romanian,text-embedding-3-small,11,Este Regulamentul privind IA adaptat exigențelor viitorului?,11,17,7,11
+EU_AI,Romanian,text-embedding-3-small,12,Cum se reglementează identificarea biometrică în Regulamentul privind IA?,12,3,5,12
+EU_AI,Romanian,text-embedding-3-small,13,De ce sunt necesare norme speciale pentru identificarea biometrică la distanță?,12,13,3,13
+EU_AI,Romanian,text-embedding-3-small,14,Cum protejează normele drepturile fundamentale?,14,15,20,14
+EU_AI,Romanian,text-embedding-3-small,15,Ce presupune evaluarea impactului asupra drepturilor fundamentale? Cine trebuie să efectueze o astfel de evaluare și când?,15,14,23,15
+EU_AI,Romanian,text-embedding-3-small,16,Cum abordează regulamentul prejudecățile rasiale și de gen în domeniul IA?,16,14,3,16
+EU_AI,Romanian,text-embedding-3-small,17,Când va fi pe deplin aplicabil Regulamentul privind IA?,17,7,25,17
+EU_AI,Romanian,text-embedding-3-small,18,Cum se va asigura respectarea măsurilor propuse?,20,6,23,20
+EU_AI,Romanian,text-embedding-3-small,19,De ce este necesar un comitet european pentru inteligența artificială și cu ce se va ocupa?,19,18,26,19
+EU_AI,Romanian,text-embedding-3-small,20,Ce sancțiuni se aplică în cazul nerespectării normelor?,20,3,6,20
+EU_AI,Romanian,text-embedding-3-small,21,Cum va fi redactat Codul de bune practici privind IA de uz general?,22,21,10,21
+EU_AI,Romanian,text-embedding-3-small,22,"Dacă este aprobat, cum servește Codul de bune practici drept instrument central de conformitate pentru furnizorii de modele de IA de uz general ?",22,21,8,22
+EU_AI,Romanian,text-embedding-3-small,23,Regulamentul privind IA conține dispoziții privind protecția mediului și sustenabilitatea?,23,11,3,23
+EU_AI,Romanian,text-embedding-3-small,24,Cum pot noile norme să sprijine inovarea?,11,24,22,24
+EU_AI,Romanian,text-embedding-3-small,25,Ce rol joacă Pactul privind IA în punerea în aplicare a Regulamentului privind IA?,18,25,19,25
+EU_AI,Romanian,text-embedding-3-small,26,Care este dimensiunea internațională a abordării UE?,26,3,2,26
+EU_AI,Romanian,text-embedding-ada-002,1,De ce este necesar să se reglementeze utilizarea inteligenței artificiale?,19,18,24,19
+EU_AI,Romanian,text-embedding-ada-002,2,Cui i se va aplica Regulamentul privind IA?,17,11,2,2
+EU_AI,Romanian,text-embedding-ada-002,3,Care sunt categoriile de risc?,4,3,3,3
+EU_AI,Romanian,text-embedding-ada-002,4,Cum știu dacă un sistem de IA prezintă un grad ridicat de risc?,3,6,4,4
+EU_AI,Romanian,text-embedding-ada-002,5,"Exemple de cazuri de utilizare cu grad ridicat de risc, astfel cum sunt definite în anexa III",5,3,4,5
+EU_AI,Romanian,text-embedding-ada-002,6,Ce obligații au furnizorii de sisteme de IA care prezintă un grad ridicat de risc?,6,15,3,6
+EU_AI,Romanian,text-embedding-ada-002,7,Care ar fi rolul standardizării în Regulamentul privind IA?,11,7,23,7
+EU_AI,Romanian,text-embedding-ada-002,8,Cum sunt reglementate modelele de IA de uz general?,8,23,18,8
+EU_AI,Romanian,text-embedding-ada-002,9,De ce este 10^25 FLOP un prag adecvat pentru sistemele de IA de uz general cu riscuri sistemice?,3,9,8,9
+EU_AI,Romanian,text-embedding-ada-002,10,Care sunt obligațiile în ceea ce privește marcarea și etichetarea rezultatelor IA prevăzute în Regulamentul privind IA?,10,11,2,10
+EU_AI,Romanian,text-embedding-ada-002,11,Este Regulamentul privind IA adaptat exigențelor viitorului?,11,3,17,11
+EU_AI,Romanian,text-embedding-ada-002,12,Cum se reglementează identificarea biometrică în Regulamentul privind IA?,12,3,13,12
+EU_AI,Romanian,text-embedding-ada-002,13,De ce sunt necesare norme speciale pentru identificarea biometrică la distanță?,12,13,3,13
+EU_AI,Romanian,text-embedding-ada-002,14,Cum protejează normele drepturile fundamentale?,14,15,6,14
+EU_AI,Romanian,text-embedding-ada-002,15,Ce presupune evaluarea impactului asupra drepturilor fundamentale? Cine trebuie să efectueze o astfel de evaluare și când?,15,14,23,15
+EU_AI,Romanian,text-embedding-ada-002,16,Cum abordează regulamentul prejudecățile rasiale și de gen în domeniul IA?,14,3,1,14
+EU_AI,Romanian,text-embedding-ada-002,17,Când va fi pe deplin aplicabil Regulamentul privind IA?,17,11,7,17
+EU_AI,Romanian,text-embedding-ada-002,18,Cum se va asigura respectarea măsurilor propuse?,20,24,14,20
+EU_AI,Romanian,text-embedding-ada-002,19,De ce este necesar un comitet european pentru inteligența artificială și cu ce se va ocupa?,19,18,26,19
+EU_AI,Romanian,text-embedding-ada-002,20,Ce sancțiuni se aplică în cazul nerespectării normelor?,20,6,17,20
+EU_AI,Romanian,text-embedding-ada-002,21,Cum va fi redactat Codul de bune practici privind IA de uz general?,21,22,23,21
+EU_AI,Romanian,text-embedding-ada-002,22,"Dacă este aprobat, cum servește Codul de bune practici drept instrument central de conformitate pentru furnizorii de modele de IA de uz general ?",22,21,8,22
+EU_AI,Romanian,text-embedding-ada-002,23,Regulamentul privind IA conține dispoziții privind protecția mediului și sustenabilitatea?,23,11,1,23
+EU_AI,Romanian,text-embedding-ada-002,24,Cum pot noile norme să sprijine inovarea?,24,20,1,24
+EU_AI,Romanian,text-embedding-ada-002,25,Ce rol joacă Pactul privind IA în punerea în aplicare a Regulamentului privind IA?,25,1,11,25
+EU_AI,Romanian,text-embedding-ada-002,26,Care este dimensiunea internațională a abordării UE?,26,23,14,26
+EU_Late_Payment,English,text-embedding-3-large,1,Why is the Commission proposing new rules to combat late payments in commercial transactions?,1,3,5,1
+EU_Late_Payment,English,text-embedding-3-large,2,How are businesses and SMEs affected by late payments?,2,8,1,2
+EU_Late_Payment,English,text-embedding-3-large,3,Why has the Commission decided to revise the current Late Payment Directive?,3,1,4,3
+EU_Late_Payment,English,text-embedding-3-large,4,What are the key novelties of the Late Payment Regulation proposal compared to the existing Late Payment Directive?,4,5,6,4
+EU_Late_Payment,English,text-embedding-3-large,5,How does the new Regulation change the legal payment limit terms?,5,4,6,5
+EU_Late_Payment,English,text-embedding-3-large,6,What are the new rules on payments of interest and compensation fees by debtors?,6,4,7,6
+EU_Late_Payment,English,text-embedding-3-large,7,How does the new Regulation improve enforcement of the rules?,7,4,6,7
+EU_Late_Payment,English,text-embedding-3-large,8,How is this proposal expected to benefit businesses and SMEs in particular?,8,9,10,8
+EU_Late_Payment,English,text-embedding-3-large,9,Does the proposal create new administrative burden for SMEs and public authorities? What about other costs?,9,8,4,9
+EU_Late_Payment,English,text-embedding-3-large,10,How can skills and digitalisation improve payment performance according to this proposal?,10,8,4,10
+EU_Late_Payment,English,text-embedding-3-large,11,What is the impact of the proposal on international competitiveness?,9,8,11,11
+EU_Late_Payment,English,text-embedding-3-large,12,When will the new rules start to apply?,12,6,4,12
+EU_Late_Payment,English,text-embedding-3-large,13,How will the implementation of the rules and progress be monitored?,13,7,12,13
+EU_Late_Payment,English,text-embedding-3-small,1,Why is the Commission proposing new rules to combat late payments in commercial transactions?,1,3,8,1
+EU_Late_Payment,English,text-embedding-3-small,2,How are businesses and SMEs affected by late payments?,2,8,1,2
+EU_Late_Payment,English,text-embedding-3-small,3,Why has the Commission decided to revise the current Late Payment Directive?,3,1,4,3
+EU_Late_Payment,English,text-embedding-3-small,4,What are the key novelties of the Late Payment Regulation proposal compared to the existing Late Payment Directive?,3,4,1,4
+EU_Late_Payment,English,text-embedding-3-small,5,How does the new Regulation change the legal payment limit terms?,5,6,4,5
+EU_Late_Payment,English,text-embedding-3-small,6,What are the new rules on payments of interest and compensation fees by debtors?,6,7,4,6
+EU_Late_Payment,English,text-embedding-3-small,7,How does the new Regulation improve enforcement of the rules?,4,7,6,7
+EU_Late_Payment,English,text-embedding-3-small,8,How is this proposal expected to benefit businesses and SMEs in particular?,8,10,9,8
+EU_Late_Payment,English,text-embedding-3-small,9,Does the proposal create new administrative burden for SMEs and public authorities? What about other costs?,9,8,10,9
+EU_Late_Payment,English,text-embedding-3-small,10,How can skills and digitalisation improve payment performance according to this proposal?,8,10,9,10
+EU_Late_Payment,English,text-embedding-3-small,11,What is the impact of the proposal on international competitiveness?,9,4,1,9
+EU_Late_Payment,English,text-embedding-3-small,12,When will the new rules start to apply?,12,6,5,12
+EU_Late_Payment,English,text-embedding-3-small,13,How will the implementation of the rules and progress be monitored?,13,7,12,13
+EU_Late_Payment,English,text-embedding-ada-002,1,Why is the Commission proposing new rules to combat late payments in commercial transactions?,1,3,7,1
+EU_Late_Payment,English,text-embedding-ada-002,2,How are businesses and SMEs affected by late payments?,2,1,8,2
+EU_Late_Payment,English,text-embedding-ada-002,3,Why has the Commission decided to revise the current Late Payment Directive?,3,1,4,3
+EU_Late_Payment,English,text-embedding-ada-002,4,What are the key novelties of the Late Payment Regulation proposal compared to the existing Late Payment Directive?,4,3,7,4
+EU_Late_Payment,English,text-embedding-ada-002,5,How does the new Regulation change the legal payment limit terms?,5,6,4,5
+EU_Late_Payment,English,text-embedding-ada-002,6,What are the new rules on payments of interest and compensation fees by debtors?,6,7,9,6
+EU_Late_Payment,English,text-embedding-ada-002,7,How does the new Regulation improve enforcement of the rules?,7,4,12,7
+EU_Late_Payment,English,text-embedding-ada-002,8,How is this proposal expected to benefit businesses and SMEs in particular?,10,8,1,8
+EU_Late_Payment,English,text-embedding-ada-002,9,Does the proposal create new administrative burden for SMEs and public authorities? What about other costs?,9,7,8,9
+EU_Late_Payment,English,text-embedding-ada-002,10,How can skills and digitalisation improve payment performance according to this proposal?,10,8,1,10
+EU_Late_Payment,English,text-embedding-ada-002,11,What is the impact of the proposal on international competitiveness?,9,8,4,9
+EU_Late_Payment,English,text-embedding-ada-002,12,When will the new rules start to apply?,12,7,6,12
+EU_Late_Payment,English,text-embedding-ada-002,13,How will the implementation of the rules and progress be monitored?,13,12,7,13
+EU_Late_Payment,German,text-embedding-3-large,1,Warum schlägt die Kommission neue Vorschriften zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr vor?,1,3,5,1
+EU_Late_Payment,German,text-embedding-3-large,2,Wie sind Unternehmen und insbesondere KMU von Zahlungsverzug betroffen?,2,11,8,2
+EU_Late_Payment,German,text-embedding-3-large,3,"Warum hat die Kommission beschlossen, die derzeitige Zahlungsverzugsrichtlinie zu überarbeiten?",3,1,6,3
+EU_Late_Payment,German,text-embedding-3-large,4,Was sind die wichtigsten Neuerungen des Vorschlags für eine Verordnung über Zahlungsverzug im Vergleich zur geltenden Zahlungsverzugsrichtlinie?,6,4,5,4
+EU_Late_Payment,German,text-embedding-3-large,5,Wie verändern sich durch die neue Verordnung die gesetzlichen Zahlungsfristen?,5,6,4,5
+EU_Late_Payment,German,text-embedding-3-large,6,Welche neuen Vorschriften gelten für die Zahlung von Zinsen und Entschädigungsgebühren durch Schuldner?,6,11,7,6
+EU_Late_Payment,German,text-embedding-3-large,7,Wie verbessert die neue Verordnung die Durchsetzung der Vorschriften?,4,7,6,7
+EU_Late_Payment,German,text-embedding-3-large,8,Wie soll dieser Vorschlag Unternehmen und insbesondere KMU zugutekommen?,8,10,1,8
+EU_Late_Payment,German,text-embedding-3-large,9,Führt der Vorschlag zu einem neuen Verwaltungsaufwand für KMU und Behörden? Wie sieht es mit sonstigen Kosten aus?,9,8,4,9
+EU_Late_Payment,German,text-embedding-3-large,10,Wie können Kompetenzen und Digitalisierung das Zahlungsverhalten gemäß diesem Vorschlag verbessern?,10,8,4,10
+EU_Late_Payment,German,text-embedding-3-large,11,Wie wirkt sich der Vorschlag auf die internationale Wettbewerbsfähigkeit aus?,9,8,4,9
+EU_Late_Payment,German,text-embedding-3-large,12,Wann treten die neuen Vorschriften in Kraft?,12,6,5,12
+EU_Late_Payment,German,text-embedding-3-large,13,Wie werden die Umsetzung der Vorschriften und die Fortschritte überwacht?,13,7,12,13
+EU_Late_Payment,German,text-embedding-3-small,1,Warum schlägt die Kommission neue Vorschriften zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr vor?,3,1,4,1
+EU_Late_Payment,German,text-embedding-3-small,2,Wie sind Unternehmen und insbesondere KMU von Zahlungsverzug betroffen?,2,3,11,2
+EU_Late_Payment,German,text-embedding-3-small,3,"Warum hat die Kommission beschlossen, die derzeitige Zahlungsverzugsrichtlinie zu überarbeiten?",3,1,5,3
+EU_Late_Payment,German,text-embedding-3-small,4,Was sind die wichtigsten Neuerungen des Vorschlags für eine Verordnung über Zahlungsverzug im Vergleich zur geltenden Zahlungsverzugsrichtlinie?,3,6,7,3
+EU_Late_Payment,German,text-embedding-3-small,5,Wie verändern sich durch die neue Verordnung die gesetzlichen Zahlungsfristen?,5,6,8,5
+EU_Late_Payment,German,text-embedding-3-small,6,Welche neuen Vorschriften gelten für die Zahlung von Zinsen und Entschädigungsgebühren durch Schuldner?,6,7,5,6
+EU_Late_Payment,German,text-embedding-3-small,7,Wie verbessert die neue Verordnung die Durchsetzung der Vorschriften?,12,6,4,12
+EU_Late_Payment,German,text-embedding-3-small,8,Wie soll dieser Vorschlag Unternehmen und insbesondere KMU zugutekommen?,8,10,9,8
+EU_Late_Payment,German,text-embedding-3-small,9,Führt der Vorschlag zu einem neuen Verwaltungsaufwand für KMU und Behörden? Wie sieht es mit sonstigen Kosten aus?,9,8,10,9
+EU_Late_Payment,German,text-embedding-3-small,10,Wie können Kompetenzen und Digitalisierung das Zahlungsverhalten gemäß diesem Vorschlag verbessern?,10,8,3,10
+EU_Late_Payment,German,text-embedding-3-small,11,Wie wirkt sich der Vorschlag auf die internationale Wettbewerbsfähigkeit aus?,9,4,5,9
+EU_Late_Payment,German,text-embedding-3-small,12,Wann treten die neuen Vorschriften in Kraft?,12,5,6,12
+EU_Late_Payment,German,text-embedding-3-small,13,Wie werden die Umsetzung der Vorschriften und die Fortschritte überwacht?,12,13,4,13
+EU_Late_Payment,German,text-embedding-ada-002,1,Warum schlägt die Kommission neue Vorschriften zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr vor?,1,3,7,1
+EU_Late_Payment,German,text-embedding-ada-002,2,Wie sind Unternehmen und insbesondere KMU von Zahlungsverzug betroffen?,2,1,8,2
+EU_Late_Payment,German,text-embedding-ada-002,3,"Warum hat die Kommission beschlossen, die derzeitige Zahlungsverzugsrichtlinie zu überarbeiten?",1,3,7,3
+EU_Late_Payment,German,text-embedding-ada-002,4,Was sind die wichtigsten Neuerungen des Vorschlags für eine Verordnung über Zahlungsverzug im Vergleich zur geltenden Zahlungsverzugsrichtlinie?,7,3,1,7
+EU_Late_Payment,German,text-embedding-ada-002,5,Wie verändern sich durch die neue Verordnung die gesetzlichen Zahlungsfristen?,5,6,13,5
+EU_Late_Payment,German,text-embedding-ada-002,6,Welche neuen Vorschriften gelten für die Zahlung von Zinsen und Entschädigungsgebühren durch Schuldner?,6,7,9,6
+EU_Late_Payment,German,text-embedding-ada-002,7,Wie verbessert die neue Verordnung die Durchsetzung der Vorschriften?,4,7,12,7
+EU_Late_Payment,German,text-embedding-ada-002,8,Wie soll dieser Vorschlag Unternehmen und insbesondere KMU zugutekommen?,10,8,9,8
+EU_Late_Payment,German,text-embedding-ada-002,9,Führt der Vorschlag zu einem neuen Verwaltungsaufwand für KMU und Behörden? Wie sieht es mit sonstigen Kosten aus?,9,10,8,9
+EU_Late_Payment,German,text-embedding-ada-002,10,Wie können Kompetenzen und Digitalisierung das Zahlungsverhalten gemäß diesem Vorschlag verbessern?,10,8,9,10
+EU_Late_Payment,German,text-embedding-ada-002,11,Wie wirkt sich der Vorschlag auf die internationale Wettbewerbsfähigkeit aus?,9,4,10,9
+EU_Late_Payment,German,text-embedding-ada-002,12,Wann treten die neuen Vorschriften in Kraft?,12,13,7,12
+EU_Late_Payment,German,text-embedding-ada-002,13,Wie werden die Umsetzung der Vorschriften und die Fortschritte überwacht?,13,12,7,13
+EU_Late_Payment,Greek,text-embedding-3-large,1,Γιατί προτείνει η Επιτροπή νέους κανόνες για την καταπολέμηση των καθυστερήσεων πληρωμών στις εμπορικές συναλλαγές;,1,3,11,1
+EU_Late_Payment,Greek,text-embedding-3-large,2,Πώς επηρεάζονται οι επιχειρήσεις και οι ΜΜΕ από τις καθυστερήσεις πληρωμών;,2,11,8,2
+EU_Late_Payment,Greek,text-embedding-3-large,3,Γιατί αποφάσισε η Επιτροπή να αναθεωρήσει την ισχύουσα οδηγία για τις καθυστερήσεις πληρωμών;,3,1,5,3
+EU_Late_Payment,Greek,text-embedding-3-large,4,Ποιες είναι οι βασικές καινοτομίες της πρότασης κανονισμού για τις καθυστερήσεις πληρωμών σε σύγκριση με την ισχύουσα οδηγία για τις καθυστερήσεις πληρωμών;,3,5,1,3
+EU_Late_Payment,Greek,text-embedding-3-large,5,Πώς αλλάζει ο νέος κανονισμός τις νόμιμες προθεσμίες πληρωμής;,6,5,7,5
+EU_Late_Payment,Greek,text-embedding-3-large,6,Ποιοι είναι οι νέοι κανόνες για τις πληρωμές τόκων και τελών αποζημίωσης από τους οφειλέτες;,6,7,4,6
+EU_Late_Payment,Greek,text-embedding-3-large,7,Πώς βελτιώνει ο νέος κανονισμός την επιβολή των κανόνων;,7,6,4,7
+EU_Late_Payment,Greek,text-embedding-3-large,8,Πώς αναμένεται να ωφελήσει η παρούσα πρόταση τις επιχειρήσεις και ιδίως τις ΜΜΕ;,8,10,9,8
+EU_Late_Payment,Greek,text-embedding-3-large,9,Μήπως η πρόταση δημιουργεί νέες διοικητικές επιβαρύνσεις για τις ΜΜΕ και τις δημόσιες αρχές; Μήπως συνεπάγεται άλλες δαπάνες;,9,8,10,9
+EU_Late_Payment,Greek,text-embedding-3-large,10,Πώς μπορούν οι δεξιότητες και η ψηφιοποίηση να βελτιώσουν τις επιδόσεις ως προς τις πληρωμές σύμφωνα μ' αυτή την πρόταση;,8,10,2,10
+EU_Late_Payment,Greek,text-embedding-3-large,11,Ποιος είναι ο αντίκτυπος της πρότασης στη διεθνή ανταγωνιστικότητα;,8,2,9,8
+EU_Late_Payment,Greek,text-embedding-3-large,12,Πότε θα αρχίσουν να εφαρμόζονται οι νέοι κανόνες;,12,6,1,12
+EU_Late_Payment,Greek,text-embedding-3-large,13,Πώς θα παρακολουθείται η εφαρμογή των κανόνων και η πρόοδος;,13,12,7,13
+EU_Late_Payment,Greek,text-embedding-3-small,1,Γιατί προτείνει η Επιτροπή νέους κανόνες για την καταπολέμηση των καθυστερήσεων πληρωμών στις εμπορικές συναλλαγές;,1,3,4,1
+EU_Late_Payment,Greek,text-embedding-3-small,2,Πώς επηρεάζονται οι επιχειρήσεις και οι ΜΜΕ από τις καθυστερήσεις πληρωμών;,8,2,3,2
+EU_Late_Payment,Greek,text-embedding-3-small,3,Γιατί αποφάσισε η Επιτροπή να αναθεωρήσει την ισχύουσα οδηγία για τις καθυστερήσεις πληρωμών;,3,1,4,3
+EU_Late_Payment,Greek,text-embedding-3-small,4,Ποιες είναι οι βασικές καινοτομίες της πρότασης κανονισμού για τις καθυστερήσεις πληρωμών σε σύγκριση με την ισχύουσα οδηγία για τις καθυστερήσεις πληρωμών;,3,4,5,4
+EU_Late_Payment,Greek,text-embedding-3-small,5,Πώς αλλάζει ο νέος κανονισμός τις νόμιμες προθεσμίες πληρωμής;,5,6,8,5
+EU_Late_Payment,Greek,text-embedding-3-small,6,Ποιοι είναι οι νέοι κανόνες για τις πληρωμές τόκων και τελών αποζημίωσης από τους οφειλέτες;,6,7,5,6
+EU_Late_Payment,Greek,text-embedding-3-small,7,Πώς βελτιώνει ο νέος κανονισμός την επιβολή των κανόνων;,12,4,5,12
+EU_Late_Payment,Greek,text-embedding-3-small,8,Πώς αναμένεται να ωφελήσει η παρούσα πρόταση τις επιχειρήσεις και ιδίως τις ΜΜΕ;,8,10,2,8
+EU_Late_Payment,Greek,text-embedding-3-small,9,Μήπως η πρόταση δημιουργεί νέες διοικητικές επιβαρύνσεις για τις ΜΜΕ και τις δημόσιες αρχές; Μήπως συνεπάγεται άλλες δαπάνες;,9,2,8,9
+EU_Late_Payment,Greek,text-embedding-3-small,10,Πώς μπορούν οι δεξιότητες και η ψηφιοποίηση να βελτιώσουν τις επιδόσεις ως προς τις πληρωμές σύμφωνα μ' αυτή την πρόταση;,10,4,7,10
+EU_Late_Payment,Greek,text-embedding-3-small,11,Ποιος είναι ο αντίκτυπος της πρότασης στη διεθνή ανταγωνιστικότητα;,4,10,7,4
+EU_Late_Payment,Greek,text-embedding-3-small,12,Πότε θα αρχίσουν να εφαρμόζονται οι νέοι κανόνες;,12,5,3,12
+EU_Late_Payment,Greek,text-embedding-3-small,13,Πώς θα παρακολουθείται η εφαρμογή των κανόνων και η πρόοδος;,12,4,7,12
+EU_Late_Payment,Greek,text-embedding-ada-002,1,Γιατί προτείνει η Επιτροπή νέους κανόνες για την καταπολέμηση των καθυστερήσεων πληρωμών στις εμπορικές συναλλαγές;,1,4,7,1
+EU_Late_Payment,Greek,text-embedding-ada-002,2,Πώς επηρεάζονται οι επιχειρήσεις και οι ΜΜΕ από τις καθυστερήσεις πληρωμών;,2,8,10,2
+EU_Late_Payment,Greek,text-embedding-ada-002,3,Γιατί αποφάσισε η Επιτροπή να αναθεωρήσει την ισχύουσα οδηγία για τις καθυστερήσεις πληρωμών;,4,1,3,3
+EU_Late_Payment,Greek,text-embedding-ada-002,4,Ποιες είναι οι βασικές καινοτομίες της πρότασης κανονισμού για τις καθυστερήσεις πληρωμών σε σύγκριση με την ισχύουσα οδηγία για τις καθυστερήσεις πληρωμών;,7,6,1,7
+EU_Late_Payment,Greek,text-embedding-ada-002,5,Πώς αλλάζει ο νέος κανονισμός τις νόμιμες προθεσμίες πληρωμής;,6,9,7,6
+EU_Late_Payment,Greek,text-embedding-ada-002,6,Ποιοι είναι οι νέοι κανόνες για τις πληρωμές τόκων και τελών αποζημίωσης από τους οφειλέτες;,6,7,12,6
+EU_Late_Payment,Greek,text-embedding-ada-002,7,Πώς βελτιώνει ο νέος κανονισμός την επιβολή των κανόνων;,6,7,12,7
+EU_Late_Payment,Greek,text-embedding-ada-002,8,Πώς αναμένεται να ωφελήσει η παρούσα πρόταση τις επιχειρήσεις και ιδίως τις ΜΜΕ;,10,8,1,8
+EU_Late_Payment,Greek,text-embedding-ada-002,9,Μήπως η πρόταση δημιουργεί νέες διοικητικές επιβαρύνσεις για τις ΜΜΕ και τις δημόσιες αρχές; Μήπως συνεπάγεται άλλες δαπάνες;,9,10,7,9
+EU_Late_Payment,Greek,text-embedding-ada-002,10,Πώς μπορούν οι δεξιότητες και η ψηφιοποίηση να βελτιώσουν τις επιδόσεις ως προς τις πληρωμές σύμφωνα μ' αυτή την πρόταση;,10,9,7,10
+EU_Late_Payment,Greek,text-embedding-ada-002,11,Ποιος είναι ο αντίκτυπος της πρότασης στη διεθνή ανταγωνιστικότητα;,9,4,7,9
+EU_Late_Payment,Greek,text-embedding-ada-002,12,Πότε θα αρχίσουν να εφαρμόζονται οι νέοι κανόνες;,12,13,6,12
+EU_Late_Payment,Greek,text-embedding-ada-002,13,Πώς θα παρακολουθείται η εφαρμογή των κανόνων και η πρόοδος;,13,12,7,13
+EU_Late_Payment,Hungarian,text-embedding-3-large,1,Miért javasol a Bizottság új szabályokat a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések leküzdésére?,1,3,5,1
+EU_Late_Payment,Hungarian,text-embedding-3-large,2,Hogyan érintik a késedelmes fizetések a vállalkozásokat és különösen a kkv-kat?,2,11,8,2
+EU_Late_Payment,Hungarian,text-embedding-3-large,3,"Miért döntött úgy a Bizottság, hogy felülvizsgálja a késedelmes fizetésekről szóló jelenlegi irányelvet?",3,1,7,3
+EU_Late_Payment,Hungarian,text-embedding-3-large,4,Melyek a késedelmes fizetésekről szóló rendeletre irányuló javaslat legfontosabb újdonságai a késedelmes fizetésekről szóló hatályos irányelvhez képest?,7,6,4,4
+EU_Late_Payment,Hungarian,text-embedding-3-large,5,Hogyan módosítja az új rendelet a törvényes fizetési határidőket?,5,7,6,5
+EU_Late_Payment,Hungarian,text-embedding-3-large,6,Melyek az adósok által fizetendő kamatokra és kártérítési díjakra vonatkozó új szabályok?,6,7,4,6
+EU_Late_Payment,Hungarian,text-embedding-3-large,7,Hogyan javítja az új rendelet a szabályok végrehajtását?,4,7,6,7
+EU_Late_Payment,Hungarian,text-embedding-3-large,8,Várhatóan milyen előnyökkel jár ez a javaslat a vállalkozások és különösen a kkv-k számára?,8,9,4,8
+EU_Late_Payment,Hungarian,text-embedding-3-large,9,A javaslat ró-e új adminisztratív terhet a kkv-kra és a hatóságokra? Mi a helyzet az egyéb költségekkel?,9,8,4,9
+EU_Late_Payment,Hungarian,text-embedding-3-large,10,Hogyan javíthatják a készségek és a digitalizáció a fizetési teljesítményt e javaslat szerint?,10,8,13,10
+EU_Late_Payment,Hungarian,text-embedding-3-large,11,Milyen hatással van a javaslat a nemzetközi versenyképességre?,4,9,8,4
+EU_Late_Payment,Hungarian,text-embedding-3-large,12,Mikortól kell alkalmazni az új szabályokat?,12,6,7,12
+EU_Late_Payment,Hungarian,text-embedding-3-large,13,Hogyan fogják nyomon követni a szabályok végrehajtását és az előrehaladást?,13,7,4,13
+EU_Late_Payment,Hungarian,text-embedding-3-small,1,Miért javasol a Bizottság új szabályokat a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések leküzdésére?,1,3,5,1
+EU_Late_Payment,Hungarian,text-embedding-3-small,2,Hogyan érintik a késedelmes fizetések a vállalkozásokat és különösen a kkv-kat?,2,1,8,2
+EU_Late_Payment,Hungarian,text-embedding-3-small,3,"Miért döntött úgy a Bizottság, hogy felülvizsgálja a késedelmes fizetésekről szóló jelenlegi irányelvet?",3,1,4,3
+EU_Late_Payment,Hungarian,text-embedding-3-small,4,Melyek a késedelmes fizetésekről szóló rendeletre irányuló javaslat legfontosabb újdonságai a késedelmes fizetésekről szóló hatályos irányelvhez képest?,3,1,8,3
+EU_Late_Payment,Hungarian,text-embedding-3-small,5,Hogyan módosítja az új rendelet a törvényes fizetési határidőket?,6,7,5,5
+EU_Late_Payment,Hungarian,text-embedding-3-small,6,Melyek az adósok által fizetendő kamatokra és kártérítési díjakra vonatkozó új szabályok?,6,9,7,6
+EU_Late_Payment,Hungarian,text-embedding-3-small,7,Hogyan javítja az új rendelet a szabályok végrehajtását?,12,7,4,7
+EU_Late_Payment,Hungarian,text-embedding-3-small,8,Várhatóan milyen előnyökkel jár ez a javaslat a vállalkozások és különösen a kkv-k számára?,8,1,10,8
+EU_Late_Payment,Hungarian,text-embedding-3-small,9,A javaslat ró-e új adminisztratív terhet a kkv-kra és a hatóságokra? Mi a helyzet az egyéb költségekkel?,9,7,8,9
+EU_Late_Payment,Hungarian,text-embedding-3-small,10,Hogyan javíthatják a készségek és a digitalizáció a fizetési teljesítményt e javaslat szerint?,10,4,8,10
+EU_Late_Payment,Hungarian,text-embedding-3-small,11,Milyen hatással van a javaslat a nemzetközi versenyképességre?,9,7,1,9
+EU_Late_Payment,Hungarian,text-embedding-3-small,12,Mikortól kell alkalmazni az új szabályokat?,12,6,4,12
+EU_Late_Payment,Hungarian,text-embedding-3-small,13,Hogyan fogják nyomon követni a szabályok végrehajtását és az előrehaladást?,12,4,5,12
+EU_Late_Payment,Hungarian,text-embedding-ada-002,1,Miért javasol a Bizottság új szabályokat a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések leküzdésére?,1,3,4,1
+EU_Late_Payment,Hungarian,text-embedding-ada-002,2,Hogyan érintik a késedelmes fizetések a vállalkozásokat és különösen a kkv-kat?,2,8,1,2
+EU_Late_Payment,Hungarian,text-embedding-ada-002,3,"Miért döntött úgy a Bizottság, hogy felülvizsgálja a késedelmes fizetésekről szóló jelenlegi irányelvet?",3,1,4,3
+EU_Late_Payment,Hungarian,text-embedding-ada-002,4,Melyek a késedelmes fizetésekről szóló rendeletre irányuló javaslat legfontosabb újdonságai a késedelmes fizetésekről szóló hatályos irányelvhez képest?,1,4,3,4
+EU_Late_Payment,Hungarian,text-embedding-ada-002,5,Hogyan módosítja az új rendelet a törvényes fizetési határidőket?,5,4,7,5
+EU_Late_Payment,Hungarian,text-embedding-ada-002,6,Melyek az adósok által fizetendő kamatokra és kártérítési díjakra vonatkozó új szabályok?,6,7,9,6
+EU_Late_Payment,Hungarian,text-embedding-ada-002,7,Hogyan javítja az új rendelet a szabályok végrehajtását?,7,12,4,7
+EU_Late_Payment,Hungarian,text-embedding-ada-002,8,Várhatóan milyen előnyökkel jár ez a javaslat a vállalkozások és különösen a kkv-k számára?,8,10,2,8
+EU_Late_Payment,Hungarian,text-embedding-ada-002,9,A javaslat ró-e új adminisztratív terhet a kkv-kra és a hatóságokra? Mi a helyzet az egyéb költségekkel?,9,7,8,9
+EU_Late_Payment,Hungarian,text-embedding-ada-002,10,Hogyan javíthatják a készségek és a digitalizáció a fizetési teljesítményt e javaslat szerint?,10,8,9,10
+EU_Late_Payment,Hungarian,text-embedding-ada-002,11,Milyen hatással van a javaslat a nemzetközi versenyképességre?,11,9,4,11
+EU_Late_Payment,Hungarian,text-embedding-ada-002,12,Mikortól kell alkalmazni az új szabályokat?,12,7,5,12
+EU_Late_Payment,Hungarian,text-embedding-ada-002,13,Hogyan fogják nyomon követni a szabályok végrehajtását és az előrehaladást?,7,12,13,13
+EU_Late_Payment,Italian,text-embedding-3-large,1,Perché la Commissione propone nuove norme per lottare contro i ritardi di pagamento nelle transazioni commerciali?,1,3,5,1
+EU_Late_Payment,Italian,text-embedding-3-large,2,In che modo le imprese e le PMI risentono dei ritardi di pagamento?,2,8,11,2
+EU_Late_Payment,Italian,text-embedding-3-large,3,Perché la Commissione ha deciso di rivedere l'attuale direttiva sui ritardi di pagamento?,3,1,5,3
+EU_Late_Payment,Italian,text-embedding-3-large,4,Quali sono le principali novità della proposta di regolamento sui ritardi di pagamento rispetto all'attuale direttiva sui ritardi di pagamento?,5,7,3,5
+EU_Late_Payment,Italian,text-embedding-3-large,5,In che modo il nuovo regolamento modifica i termini legali di pagamento?,5,6,7,5
+EU_Late_Payment,Italian,text-embedding-3-large,6,Quali sono le nuove norme relative al pagamento degli interessi e al risarcimento da parte dei debitori?,6,7,4,6
+EU_Late_Payment,Italian,text-embedding-3-large,7,In che modo il nuovo regolamento migliora l'applicazione delle norme?,4,6,7,7
+EU_Late_Payment,Italian,text-embedding-3-large,8,"In che modo le imprese, in particolare le PMI, dovrebbero trarre beneficio da questa proposta?",8,10,9,8
+EU_Late_Payment,Italian,text-embedding-3-large,9,La proposta crea introduce nuovi oneri amministrativi per le PMI e le autorità pubbliche? E cosa si prevede per gli altri costi?,9,8,7,9
+EU_Late_Payment,Italian,text-embedding-3-large,10,"In che modo, in base a questa proposta, le competenze e la digitalizzazione possono migliorare le prestazioni di pagamento?",10,8,4,10
+EU_Late_Payment,Italian,text-embedding-3-large,11,Quale sarà l'impatto della proposta sulla competitività internazionale?,9,11,8,11
+EU_Late_Payment,Italian,text-embedding-3-large,12,Quando entreranno in vigore le nuove norme?,12,6,4,12
+EU_Late_Payment,Italian,text-embedding-3-large,13,In che modo si intende monitorare l'attuazione delle norme e i progressi compiuti?,13,7,12,13
+EU_Late_Payment,Italian,text-embedding-3-small,1,Perché la Commissione propone nuove norme per lottare contro i ritardi di pagamento nelle transazioni commerciali?,1,3,8,1
+EU_Late_Payment,Italian,text-embedding-3-small,2,In che modo le imprese e le PMI risentono dei ritardi di pagamento?,2,8,1,2
+EU_Late_Payment,Italian,text-embedding-3-small,3,Perché la Commissione ha deciso di rivedere l'attuale direttiva sui ritardi di pagamento?,3,1,8,3
+EU_Late_Payment,Italian,text-embedding-3-small,4,Quali sono le principali novità della proposta di regolamento sui ritardi di pagamento rispetto all'attuale direttiva sui ritardi di pagamento?,3,5,6,3
+EU_Late_Payment,Italian,text-embedding-3-small,5,In che modo il nuovo regolamento modifica i termini legali di pagamento?,5,6,7,5
+EU_Late_Payment,Italian,text-embedding-3-small,6,Quali sono le nuove norme relative al pagamento degli interessi e al risarcimento da parte dei debitori?,6,7,4,6
+EU_Late_Payment,Italian,text-embedding-3-small,7,In che modo il nuovo regolamento migliora l'applicazione delle norme?,12,4,6,12
+EU_Late_Payment,Italian,text-embedding-3-small,8,"In che modo le imprese, in particolare le PMI, dovrebbero trarre beneficio da questa proposta?",8,10,9,8
+EU_Late_Payment,Italian,text-embedding-3-small,9,La proposta crea introduce nuovi oneri amministrativi per le PMI e le autorità pubbliche? E cosa si prevede per gli altri costi?,9,8,7,9
+EU_Late_Payment,Italian,text-embedding-3-small,10,"In che modo, in base a questa proposta, le competenze e la digitalizzazione possono migliorare le prestazioni di pagamento?",10,8,1,10
+EU_Late_Payment,Italian,text-embedding-3-small,11,Quale sarà l'impatto della proposta sulla competitività internazionale?,9,4,8,9
+EU_Late_Payment,Italian,text-embedding-3-small,12,Quando entreranno in vigore le nuove norme?,12,6,5,12
+EU_Late_Payment,Italian,text-embedding-3-small,13,In che modo si intende monitorare l'attuazione delle norme e i progressi compiuti?,13,12,7,13
+EU_Late_Payment,Italian,text-embedding-ada-002,1,Perché la Commissione propone nuove norme per lottare contro i ritardi di pagamento nelle transazioni commerciali?,1,3,11,1
+EU_Late_Payment,Italian,text-embedding-ada-002,2,In che modo le imprese e le PMI risentono dei ritardi di pagamento?,2,1,8,2
+EU_Late_Payment,Italian,text-embedding-ada-002,3,Perché la Commissione ha deciso di rivedere l'attuale direttiva sui ritardi di pagamento?,3,1,11,3
+EU_Late_Payment,Italian,text-embedding-ada-002,4,Quali sono le principali novità della proposta di regolamento sui ritardi di pagamento rispetto all'attuale direttiva sui ritardi di pagamento?,3,1,7,3
+EU_Late_Payment,Italian,text-embedding-ada-002,5,In che modo il nuovo regolamento modifica i termini legali di pagamento?,5,7,3,5
+EU_Late_Payment,Italian,text-embedding-ada-002,6,Quali sono le nuove norme relative al pagamento degli interessi e al risarcimento da parte dei debitori?,6,7,9,6
+EU_Late_Payment,Italian,text-embedding-ada-002,7,In che modo il nuovo regolamento migliora l'applicazione delle norme?,7,12,4,7
+EU_Late_Payment,Italian,text-embedding-ada-002,8,"In che modo le imprese, in particolare le PMI, dovrebbero trarre beneficio da questa proposta?",8,10,2,8
+EU_Late_Payment,Italian,text-embedding-ada-002,9,La proposta crea introduce nuovi oneri amministrativi per le PMI e le autorità pubbliche? E cosa si prevede per gli altri costi?,9,7,8,9
+EU_Late_Payment,Italian,text-embedding-ada-002,10,"In che modo, in base a questa proposta, le competenze e la digitalizzazione possono migliorare le prestazioni di pagamento?",10,8,9,10
+EU_Late_Payment,Italian,text-embedding-ada-002,11,Quale sarà l'impatto della proposta sulla competitività internazionale?,9,8,7,9
+EU_Late_Payment,Italian,text-embedding-ada-002,12,Quando entreranno in vigore le nuove norme?,12,13,7,12
+EU_Late_Payment,Italian,text-embedding-ada-002,13,In che modo si intende monitorare l'attuazione delle norme e i progressi compiuti?,13,7,12,13
+EU_Late_Payment,Romanian,text-embedding-3-large,1,De ce propune Comisia noi norme pentru a combate întârzierile în efectuarea plăților în tranzacțiile comerciale?,1,3,5,1
+EU_Late_Payment,Romanian,text-embedding-3-large,2,Care este impactul întârzierii în efectuarea plăților asupra întreprinderilor și a IMM-urilor?,2,8,11,2
+EU_Late_Payment,Romanian,text-embedding-3-large,3,De ce a decis Comisia să revizuiască actuala Directivă privind întârzierea în efectuarea plăților?,3,1,5,3
+EU_Late_Payment,Romanian,text-embedding-3-large,4,Care sunt principalele noutăți ale Propunerii de regulament privind întârzierea în efectuarea plăților comparativ cu actuala Directivă privind întârzierea în efectuarea plăților?,5,4,7,4
+EU_Late_Payment,Romanian,text-embedding-3-large,5,Cum modifică noul regulament termenele legale de plată?,5,6,7,5
+EU_Late_Payment,Romanian,text-embedding-3-large,6,Care sunt noile norme privind plata dobânzilor și a despăgubirilor de către debitori?,6,4,7,6
+EU_Late_Payment,Romanian,text-embedding-3-large,7,În ce fel contribuie noul regulament la o mai bună asigurare a respectării normelor?,7,4,6,7
+EU_Late_Payment,Romanian,text-embedding-3-large,8,Care sunt beneficiile estimate ale acestei propuneri pentru întreprinderi și mai ales pentru IMM-uri?,8,9,10,8
+EU_Late_Payment,Romanian,text-embedding-3-large,9,Creează propunerea noi sarcini administrative pentru IMM-uri și autoritățile publice? Există alte costuri?,9,8,7,9
+EU_Late_Payment,Romanian,text-embedding-3-large,10,În ce fel pot competențele și digitalizarea să îmbunătățească performanța în materie de plăți conform acestei propuneri?,8,10,4,10
+EU_Late_Payment,Romanian,text-embedding-3-large,11,Care este impactul propunerii asupra competitivității internaționale?,9,8,11,11
+EU_Late_Payment,Romanian,text-embedding-3-large,12,Când vor începe să se aplice noile norme?,12,6,4,12
+EU_Late_Payment,Romanian,text-embedding-3-large,13,Cum se vor monitoriza punerea în aplicare a normelor și progresele înregistrate?,13,7,12,13
+EU_Late_Payment,Romanian,text-embedding-3-small,1,De ce propune Comisia noi norme pentru a combate întârzierile în efectuarea plăților în tranzacțiile comerciale?,1,3,11,1
+EU_Late_Payment,Romanian,text-embedding-3-small,2,Care este impactul întârzierii în efectuarea plăților asupra întreprinderilor și a IMM-urilor?,2,1,8,2
+EU_Late_Payment,Romanian,text-embedding-3-small,3,De ce a decis Comisia să revizuiască actuala Directivă privind întârzierea în efectuarea plăților?,3,1,2,3
+EU_Late_Payment,Romanian,text-embedding-3-small,4,Care sunt principalele noutăți ale Propunerii de regulament privind întârzierea în efectuarea plăților comparativ cu actuala Directivă privind întârzierea în efectuarea plăților?,3,1,5,3
+EU_Late_Payment,Romanian,text-embedding-3-small,5,Cum modifică noul regulament termenele legale de plată?,5,6,1,5
+EU_Late_Payment,Romanian,text-embedding-3-small,6,Care sunt noile norme privind plata dobânzilor și a despăgubirilor de către debitori?,6,7,5,6
+EU_Late_Payment,Romanian,text-embedding-3-small,7,În ce fel contribuie noul regulament la o mai bună asigurare a respectării normelor?,7,6,4,7
+EU_Late_Payment,Romanian,text-embedding-3-small,8,Care sunt beneficiile estimate ale acestei propuneri pentru întreprinderi și mai ales pentru IMM-uri?,8,9,2,8
+EU_Late_Payment,Romanian,text-embedding-3-small,9,Creează propunerea noi sarcini administrative pentru IMM-uri și autoritățile publice? Există alte costuri?,9,8,2,9
+EU_Late_Payment,Romanian,text-embedding-3-small,10,În ce fel pot competențele și digitalizarea să îmbunătățească performanța în materie de plăți conform acestei propuneri?,10,8,1,10
+EU_Late_Payment,Romanian,text-embedding-3-small,11,Care este impactul propunerii asupra competitivității internaționale?,4,9,8,4
+EU_Late_Payment,Romanian,text-embedding-3-small,12,Când vor începe să se aplice noile norme?,12,6,13,12
+EU_Late_Payment,Romanian,text-embedding-3-small,13,Cum se vor monitoriza punerea în aplicare a normelor și progresele înregistrate?,13,7,12,13
+EU_Late_Payment,Romanian,text-embedding-ada-002,1,De ce propune Comisia noi norme pentru a combate întârzierile în efectuarea plăților în tranzacțiile comerciale?,1,3,11,1
+EU_Late_Payment,Romanian,text-embedding-ada-002,2,Care este impactul întârzierii în efectuarea plăților asupra întreprinderilor și a IMM-urilor?,2,1,8,2
+EU_Late_Payment,Romanian,text-embedding-ada-002,3,De ce a decis Comisia să revizuiască actuala Directivă privind întârzierea în efectuarea plăților?,3,1,11,3
+EU_Late_Payment,Romanian,text-embedding-ada-002,4,Care sunt principalele noutăți ale Propunerii de regulament privind întârzierea în efectuarea plăților comparativ cu actuala Directivă privind întârzierea în efectuarea plăților?,3,1,7,3
+EU_Late_Payment,Romanian,text-embedding-ada-002,5,Cum modifică noul regulament termenele legale de plată?,5,6,7,5
+EU_Late_Payment,Romanian,text-embedding-ada-002,6,Care sunt noile norme privind plata dobânzilor și a despăgubirilor de către debitori?,6,7,9,6
+EU_Late_Payment,Romanian,text-embedding-ada-002,7,În ce fel contribuie noul regulament la o mai bună asigurare a respectării normelor?,7,4,6,7
+EU_Late_Payment,Romanian,text-embedding-ada-002,8,Care sunt beneficiile estimate ale acestei propuneri pentru întreprinderi și mai ales pentru IMM-uri?,8,10,9,8
+EU_Late_Payment,Romanian,text-embedding-ada-002,9,Creează propunerea noi sarcini administrative pentru IMM-uri și autoritățile publice? Există alte costuri?,9,8,10,9
+EU_Late_Payment,Romanian,text-embedding-ada-002,10,În ce fel pot competențele și digitalizarea să îmbunătățească performanța în materie de plăți conform acestei propuneri?,10,8,7,10
+EU_Late_Payment,Romanian,text-embedding-ada-002,11,Care este impactul propunerii asupra competitivității internaționale?,9,8,1,9
+EU_Late_Payment,Romanian,text-embedding-ada-002,12,Când vor începe să se aplice noile norme?,12,7,13,12
+EU_Late_Payment,Romanian,text-embedding-ada-002,13,Cum se vor monitoriza punerea în aplicare a normelor și progresele înregistrate?,13,7,12,13
+EU_Single_Currency,English,text-embedding-3-large,1,What is ‘legal tender' of euro banknotes and coins?,1,6,2,1
+EU_Single_Currency,English,text-embedding-3-large,2,Why is the Commission acting on this now?,2,37,7,2
+EU_Single_Currency,English,text-embedding-3-large,3,What are the objectives of the proposal?,3,5,2,3
+EU_Single_Currency,English,text-embedding-3-large,4,How does the proposal safeguard the acceptance of – and access to – cash?,3,5,4,4
+EU_Single_Currency,English,text-embedding-3-large,5,How does the proposal contribute to financial inclusion?,5,14,3,5
+EU_Single_Currency,English,text-embedding-3-large,6,What is the legal basis of the proposal?,2,6,3,6
+EU_Single_Currency,English,text-embedding-3-large,7,What are the next steps?,39,7,11,7
+EU_Single_Currency,English,text-embedding-3-large,8,What would the digital euro be?,8,0,17,8
+EU_Single_Currency,English,text-embedding-3-large,0,Why do we need a digital euro?,0,10,33,0
+EU_Single_Currency,English,text-embedding-3-large,10,"What would the added value of a digital euro be compared to existing private digital payments solutions, such as cards and mobile payments?",0,10,33,10
+EU_Single_Currency,English,text-embedding-3-large,11,Who would issue the digital euro and when?,11,39,17,11
+EU_Single_Currency,English,text-embedding-3-large,12,"Would the digital euro replace cash, if adopted?",0,12,8,12
+EU_Single_Currency,English,text-embedding-3-large,13,"How much would the digital euro cost? Would I need to pay a fee to open a digital euro account, send money abroad, or withdraw cash at an ATM from my digital euro account?",13,14,27,13
+EU_Single_Currency,English,text-embedding-3-large,14,How would a digital euro support financial inclusion? Would the digital euro be able to be used offline?,14,10,19,14
+EU_Single_Currency,English,text-embedding-3-large,15,Who would have access to my personal data and for what purpose? How would my data be protected?,15,29,18,15
+EU_Single_Currency,English,text-embedding-3-large,16,What are the differences between online and offline payments in digital euro?,16,19,10,16
+EU_Single_Currency,English,text-embedding-3-large,17,What is the difference between a digital euro and the euro we already have in our bank accounts?,8,0,10,8
+EU_Single_Currency,English,text-embedding-3-large,18,Where and how would I be able to access the digital euro?,19,27,8,19
+EU_Single_Currency,English,text-embedding-3-large,19,Where and how would I be able to use my digital euro?,19,27,10,19
+EU_Single_Currency,English,text-embedding-3-large,20,Would I be able to make mobile payments with digital euro? Would I be able to use my European Digital Identity Wallet?,20,19,27,20
+EU_Single_Currency,English,text-embedding-3-large,21,Would my digital euro account be remunerated?,21,18,13,21
+EU_Single_Currency,English,text-embedding-3-large,22,Would I be able to have more than one digital euro account?,22,18,24,22
+EU_Single_Currency,English,text-embedding-3-large,23,Would the digital euro be programmable – i.e.  by public authorities to be used for specific purposes?,23,34,17,23
+EU_Single_Currency,English,text-embedding-3-large,24,Would there be limits to the amount of digital euro that I can hold on my account?,24,22,37,24
+EU_Single_Currency,English,text-embedding-3-large,25,What would the role of the private sector be?,25,18,33,25
+EU_Single_Currency,English,text-embedding-3-large,26,"As a merchant, would I need to accept the digital euro?",26,33,27,26
+EU_Single_Currency,English,text-embedding-3-large,27,"As a merchant, how would I process digital euro transactions?",27,26,19,27
+EU_Single_Currency,English,text-embedding-3-large,28,How would the digital euro impact the banking system?,28,33,36,28
+EU_Single_Currency,English,text-embedding-3-large,29,"Who would be able to hold digital euro? Would I be able to hold a digital euro account even if I no longer reside in the euro area, or when I go back to my country of residence after travelling to the euro area?",29,30,31,29
+EU_Single_Currency,English,text-embedding-3-large,30,Would I be able to use my digital euro outside the euro area?,30,33,19,30
+EU_Single_Currency,English,text-embedding-3-large,31,Would EU Member States that are not in the euro area have access to the digital euro? What about third countries?,29,31,33,31
+EU_Single_Currency,English,text-embedding-3-large,32,Are other countries developing central bank digital currencies?,32,33,0,32
+EU_Single_Currency,English,text-embedding-3-large,33,How would the digital euro support the international role of the euro?,33,0,19,33
+EU_Single_Currency,English,text-embedding-3-large,34,How would the digital euro support innovation in payments?,34,10,36,34
+EU_Single_Currency,English,text-embedding-3-large,35,How would the digital euro support resilience in payments?,35,10,0,35
+EU_Single_Currency,English,text-embedding-3-large,36,What synergies will there be with instant payments and the Commission's wider retail payments strategy?,36,16,34,36
+EU_Single_Currency,English,text-embedding-3-large,37,Would there be safeguards to prevent money laundering and the financing of terrorism?,37,24,4,37
+EU_Single_Currency,English,text-embedding-3-large,38,What are the respective roles of the co-legislator and the European Central Bank?,39,7,6,39
+EU_Single_Currency,English,text-embedding-3-large,39,What are the next steps on today's proposal?,39,7,37,39
+EU_Single_Currency,English,text-embedding-3-small,1,What is ‘legal tender' of euro banknotes and coins?,1,6,2,1
+EU_Single_Currency,English,text-embedding-3-small,2,Why is the Commission acting on this now?,37,39,4,37
+EU_Single_Currency,English,text-embedding-3-small,3,What are the objectives of the proposal?,3,5,2,3
+EU_Single_Currency,English,text-embedding-3-small,4,How does the proposal safeguard the acceptance of – and access to – cash?,3,5,4,4
+EU_Single_Currency,English,text-embedding-3-small,5,How does the proposal contribute to financial inclusion?,5,3,14,5
+EU_Single_Currency,English,text-embedding-3-small,6,What is the legal basis of the proposal?,3,2,6,6
+EU_Single_Currency,English,text-embedding-3-small,7,What are the next steps?,7,39,11,7
+EU_Single_Currency,English,text-embedding-3-small,8,What would the digital euro be?,8,17,33,8
+EU_Single_Currency,English,text-embedding-3-small,0,Why do we need a digital euro?,0,33,10,0
+EU_Single_Currency,English,text-embedding-3-small,10,"What would the added value of a digital euro be compared to existing private digital payments solutions, such as cards and mobile payments?",10,34,20,10
+EU_Single_Currency,English,text-embedding-3-small,11,Who would issue the digital euro and when?,11,39,17,11
+EU_Single_Currency,English,text-embedding-3-small,12,"Would the digital euro replace cash, if adopted?",12,8,17,12
+EU_Single_Currency,English,text-embedding-3-small,13,"How much would the digital euro cost? Would I need to pay a fee to open a digital euro account, send money abroad, or withdraw cash at an ATM from my digital euro account?",13,19,10,13
+EU_Single_Currency,English,text-embedding-3-small,14,How would a digital euro support financial inclusion? Would the digital euro be able to be used offline?,14,19,10,14
+EU_Single_Currency,English,text-embedding-3-small,15,Who would have access to my personal data and for what purpose? How would my data be protected?,15,10,29,15
+EU_Single_Currency,English,text-embedding-3-small,16,What are the differences between online and offline payments in digital euro?,16,19,10,16
+EU_Single_Currency,English,text-embedding-3-small,17,What is the difference between a digital euro and the euro we already have in our bank accounts?,8,10,27,8
+EU_Single_Currency,English,text-embedding-3-small,18,Where and how would I be able to access the digital euro?,29,33,19,29
+EU_Single_Currency,English,text-embedding-3-small,19,Where and how would I be able to use my digital euro?,27,19,33,19
+EU_Single_Currency,English,text-embedding-3-small,20,Would I be able to make mobile payments with digital euro? Would I be able to use my European Digital Identity Wallet?,20,19,27,20
+EU_Single_Currency,English,text-embedding-3-small,21,Would my digital euro account be remunerated?,21,13,33,21
+EU_Single_Currency,English,text-embedding-3-small,22,Would I be able to have more than one digital euro account?,22,18,27,22
+EU_Single_Currency,English,text-embedding-3-small,23,Would the digital euro be programmable – i.e.  by public authorities to be used for specific purposes?,23,34,38,23
+EU_Single_Currency,English,text-embedding-3-small,24,Would there be limits to the amount of digital euro that I can hold on my account?,24,22,28,24
+EU_Single_Currency,English,text-embedding-3-small,25,What would the role of the private sector be?,25,15,34,25
+EU_Single_Currency,English,text-embedding-3-small,26,"As a merchant, would I need to accept the digital euro?",26,27,33,26
+EU_Single_Currency,English,text-embedding-3-small,27,"As a merchant, how would I process digital euro transactions?",27,26,19,27
+EU_Single_Currency,English,text-embedding-3-small,28,How would the digital euro impact the banking system?,28,8,34,28
+EU_Single_Currency,English,text-embedding-3-small,29,"Who would be able to hold digital euro? Would I be able to hold a digital euro account even if I no longer reside in the euro area, or when I go back to my country of residence after travelling to the euro area?",29,18,30,29
+EU_Single_Currency,English,text-embedding-3-small,30,Would I be able to use my digital euro outside the euro area?,30,31,33,30
+EU_Single_Currency,English,text-embedding-3-small,31,Would EU Member States that are not in the euro area have access to the digital euro? What about third countries?,31,29,33,31
+EU_Single_Currency,English,text-embedding-3-small,32,Are other countries developing central bank digital currencies?,32,33,8,32
+EU_Single_Currency,English,text-embedding-3-small,33,How would the digital euro support the international role of the euro?,33,0,34,33
+EU_Single_Currency,English,text-embedding-3-small,34,How would the digital euro support innovation in payments?,34,10,0,34
+EU_Single_Currency,English,text-embedding-3-small,35,How would the digital euro support resilience in payments?,35,10,0,35
+EU_Single_Currency,English,text-embedding-3-small,36,What synergies will there be with instant payments and the Commission's wider retail payments strategy?,36,34,37,36
+EU_Single_Currency,English,text-embedding-3-small,37,Would there be safeguards to prevent money laundering and the financing of terrorism?,37,24,4,37
+EU_Single_Currency,English,text-embedding-3-small,38,What are the respective roles of the co-legislator and the European Central Bank?,39,38,11,38
+EU_Single_Currency,English,text-embedding-3-small,39,What are the next steps on today's proposal?,39,3,37,39
+EU_Single_Currency,English,text-embedding-ada-002,1,What is ‘legal tender' of euro banknotes and coins?,1,2,6,1
+EU_Single_Currency,English,text-embedding-ada-002,2,Why is the Commission acting on this now?,7,39,37,7
+EU_Single_Currency,English,text-embedding-ada-002,3,What are the objectives of the proposal?,3,5,11,3
+EU_Single_Currency,English,text-embedding-ada-002,4,How does the proposal safeguard the acceptance of – and access to – cash?,3,5,4,4
+EU_Single_Currency,English,text-embedding-ada-002,5,How does the proposal contribute to financial inclusion?,5,3,14,5
+EU_Single_Currency,English,text-embedding-ada-002,6,What is the legal basis of the proposal?,3,2,5,3
+EU_Single_Currency,English,text-embedding-ada-002,7,What are the next steps?,39,7,11,7
+EU_Single_Currency,English,text-embedding-ada-002,8,What would the digital euro be?,8,10,14,8
+EU_Single_Currency,English,text-embedding-ada-002,0,Why do we need a digital euro?,14,10,0,0
+EU_Single_Currency,English,text-embedding-ada-002,10,"What would the added value of a digital euro be compared to existing private digital payments solutions, such as cards and mobile payments?",20,10,34,10
+EU_Single_Currency,English,text-embedding-ada-002,11,Who would issue the digital euro and when?,39,11,8,11
+EU_Single_Currency,English,text-embedding-ada-002,12,"Would the digital euro replace cash, if adopted?",12,34,8,12
+EU_Single_Currency,English,text-embedding-ada-002,13,"How much would the digital euro cost? Would I need to pay a fee to open a digital euro account, send money abroad, or withdraw cash at an ATM from my digital euro account?",13,19,18,13
+EU_Single_Currency,English,text-embedding-ada-002,14,How would a digital euro support financial inclusion? Would the digital euro be able to be used offline?,14,10,19,14
+EU_Single_Currency,English,text-embedding-ada-002,15,Who would have access to my personal data and for what purpose? How would my data be protected?,15,29,27,15
+EU_Single_Currency,English,text-embedding-ada-002,16,What are the differences between online and offline payments in digital euro?,16,19,10,16
+EU_Single_Currency,English,text-embedding-ada-002,17,What is the difference between a digital euro and the euro we already have in our bank accounts?,8,10,14,8
+EU_Single_Currency,English,text-embedding-ada-002,18,Where and how would I be able to access the digital euro?,19,29,20,19
+EU_Single_Currency,English,text-embedding-ada-002,19,Where and how would I be able to use my digital euro?,19,20,10,19
+EU_Single_Currency,English,text-embedding-ada-002,20,Would I be able to make mobile payments with digital euro? Would I be able to use my European Digital Identity Wallet?,20,19,10,20
+EU_Single_Currency,English,text-embedding-ada-002,21,Would my digital euro account be remunerated?,21,13,18,21
+EU_Single_Currency,English,text-embedding-ada-002,22,Would I be able to have more than one digital euro account?,22,18,24,22
+EU_Single_Currency,English,text-embedding-ada-002,23,Would the digital euro be programmable – i.e.  by public authorities to be used for specific purposes?,23,34,14,23
+EU_Single_Currency,English,text-embedding-ada-002,24,Would there be limits to the amount of digital euro that I can hold on my account?,24,22,23,24
+EU_Single_Currency,English,text-embedding-ada-002,25,What would the role of the private sector be?,25,5,15,25
+EU_Single_Currency,English,text-embedding-ada-002,26,"As a merchant, would I need to accept the digital euro?",26,20,27,26
+EU_Single_Currency,English,text-embedding-ada-002,27,"As a merchant, how would I process digital euro transactions?",27,26,20,27
+EU_Single_Currency,English,text-embedding-ada-002,28,How would the digital euro impact the banking system?,28,36,15,28
+EU_Single_Currency,English,text-embedding-ada-002,29,"Who would be able to hold digital euro? Would I be able to hold a digital euro account even if I no longer reside in the euro area, or when I go back to my country of residence after travelling to the euro area?",29,31,19,29
+EU_Single_Currency,English,text-embedding-ada-002,30,Would I be able to use my digital euro outside the euro area?,30,19,31,30
+EU_Single_Currency,English,text-embedding-ada-002,31,Would EU Member States that are not in the euro area have access to the digital euro? What about third countries?,31,29,33,31
+EU_Single_Currency,English,text-embedding-ada-002,32,Are other countries developing central bank digital currencies?,32,8,31,32
+EU_Single_Currency,English,text-embedding-ada-002,33,How would the digital euro support the international role of the euro?,33,14,34,33
+EU_Single_Currency,English,text-embedding-ada-002,34,How would the digital euro support innovation in payments?,34,36,10,34
+EU_Single_Currency,English,text-embedding-ada-002,35,How would the digital euro support resilience in payments?,35,14,10,35
+EU_Single_Currency,English,text-embedding-ada-002,36,What synergies will there be with instant payments and the Commission's wider retail payments strategy?,36,5,34,36
+EU_Single_Currency,English,text-embedding-ada-002,37,Would there be safeguards to prevent money laundering and the financing of terrorism?,37,5,24,37
+EU_Single_Currency,English,text-embedding-ada-002,38,What are the respective roles of the co-legislator and the European Central Bank?,39,11,28,39
+EU_Single_Currency,English,text-embedding-ada-002,39,What are the next steps on today's proposal?,39,3,11,39
+EU_Single_Currency,French,text-embedding-3-large,1,Qu'est-ce que le «cours légal» des billets et pièces en euros?,1,2,6,1
+EU_Single_Currency,French,text-embedding-3-large,2,Pourquoi la Commission agit-elle maintenant?,37,2,7,2
+EU_Single_Currency,French,text-embedding-3-large,3,Quels sont les objectifs de la proposition?,3,5,2,3
+EU_Single_Currency,French,text-embedding-3-large,4,De quelle manière la proposition garantit-elle l'acceptation des espèces et l'accès à celles-ci?,3,5,4,4
+EU_Single_Currency,French,text-embedding-3-large,5,De quelle manière la proposition contribue-t-elle à l'inclusion financière?,5,14,3,5
+EU_Single_Currency,French,text-embedding-3-large,6,Quelle est la base juridique de la proposition?,2,6,3,6
+EU_Single_Currency,French,text-embedding-3-large,7,Quelles sont les prochaines étapes?,7,39,37,7
+EU_Single_Currency,French,text-embedding-3-large,8,En quoi consisterait l'euro numérique?,8,19,17,8
+EU_Single_Currency,French,text-embedding-3-large,9,Quelle est la nécessité d'un euro numérique?,9,10,33,9
+EU_Single_Currency,French,text-embedding-3-large,10,"Quelle serait la valeur ajoutée de l'euro numérique par rapport aux solutions privées de paiement numérique existantes, telles que les cartes et les paiements mobiles?",10,34,19,10
+EU_Single_Currency,French,text-embedding-3-large,11,Qui émettrait l'euro numérique et quand?,11,39,17,11
+EU_Single_Currency,French,text-embedding-3-large,12,"L'euro numérique remplacera-t-il les espèces, s'il est adopté?",9,12,10,12
+EU_Single_Currency,French,text-embedding-3-large,13,"Quel serait le coût de l'euro numérique? Y aurait-il des frais à payer pour ouvrir un compte en euros numériques, retirer de l'argent liquide sur ce compte à un distributeur automatique ou envoyer de l'argent à l'étranger?",13,14,9,13
+EU_Single_Currency,French,text-embedding-3-large,14,De quelle manière l'euro numérique favoriserait-il l'inclusion financière? L'euro numérique pourrait-il être utilisé hors ligne?,14,19,10,14
+EU_Single_Currency,French,text-embedding-3-large,15,Qui aurait accès aux données à caractère personnel et à quelles fins? Comment ces données seraient-elles protégées?,15,15,29,15
+EU_Single_Currency,French,text-embedding-3-large,16,Quelles sont les différences entre les paiements en euros numériques en ligne et hors ligne?,16,19,10,16
+EU_Single_Currency,French,text-embedding-3-large,17,Quelle est la différence entre l'euro numérique et l'euro que nous avons déjà sur nos comptes bancaires?,8,9,17,17
+EU_Single_Currency,French,text-embedding-3-large,18,Où et comment se procurerait-on l'euro numérique?,8,11,17,8
+EU_Single_Currency,French,text-embedding-3-large,19,Où et comment l'euro numérique serait-il utilisable?,19,10,33,19
+EU_Single_Currency,French,text-embedding-3-large,20,Serait-il possible d'effectuer des paiements mobiles et d'utiliser le portefeuille européen d'identité numérique avec l'euro numérique?,20,19,10,20
+EU_Single_Currency,French,text-embedding-3-large,21,Le compte en euros numériques serait-il rémunéré?,21,8,13,21
+EU_Single_Currency,French,text-embedding-3-large,22,Serait-il possible de détenir plusieurs comptes en euros numériques?,22,31,24,22
+EU_Single_Currency,French,text-embedding-3-large,23,"L'euro numérique serait-il programmable (ou, autrement dit, les pouvoirs publics pourraient-ils lui attribuer des finalités spécifiques)?",23,34,17,23
+EU_Single_Currency,French,text-embedding-3-large,24,Le montant des avoirs détenus sur un compte en euros numériques serait-il plafonné?,24,22,8,24
+EU_Single_Currency,French,text-embedding-3-large,25,Quel serait le rôle du secteur privé?,25,35,18,25
+EU_Single_Currency,French,text-embedding-3-large,26,Un commerçant aurait-il l'obligation d'accepter l'euro numérique?,26,27,1,26
+EU_Single_Currency,French,text-embedding-3-large,27,Comment un commerçant traiterait-il les transactions en euros numériques?,27,26,19,27
+EU_Single_Currency,French,text-embedding-3-large,28,Quelle incidence l'euro numérique aurait-il sur le système bancaire?,28,19,9,28
+EU_Single_Currency,French,text-embedding-3-large,29,Qui pourrait détenir des euros numériques? Les personnes ne résidant plus dans la zone euro ou celles retournant dans leur pays de résidence après un séjour dans la zone euro auraient-elles le droit de conserver un compte en euros numériques?,29,31,30,29
+EU_Single_Currency,French,text-embedding-3-large,30,L'utilisation de l'euro numérique en dehors de la zone euro serait-elle autorisée?,31,30,33,30
+EU_Single_Currency,French,text-embedding-3-large,31,Les États membres de l'UE n'appartenant pas à la zone euro auraient-ils accès à l'euro numérique? Et les pays tiers?,31,29,30,31
+EU_Single_Currency,French,text-embedding-3-large,32,Des monnaies numériques de banque centrale sont-elles en cours d'élaboration dans d'autres pays?,32,33,9,32
+EU_Single_Currency,French,text-embedding-3-large,33,En quoi l'euro numérique soutiendrait-il le rôle international de l'euro?,33,19,9,33
+EU_Single_Currency,French,text-embedding-3-large,34,Comment l'euro numérique favoriserait-il l'innovation en matière de paiements?,34,19,36,34
+EU_Single_Currency,French,text-embedding-3-large,35,En quoi l'euro numérique favoriserait-il la résilience des paiements?,35,10,19,35
+EU_Single_Currency,French,text-embedding-3-large,36,Quelles synergies y aurait-il avec les paiements instantanés et la stratégie plus large de la Commission en matière de paiements de détail?,36,16,10,36
+EU_Single_Currency,French,text-embedding-3-large,37,Y aurait-il des garde-fous visant à prévenir le blanchiment de capitaux et le financement du terrorisme?,37,24,4,37
+EU_Single_Currency,French,text-embedding-3-large,38,Quels seront les rôles respectifs des colégislateurs et de la Banque centrale européenne?,38,39,7,38
+EU_Single_Currency,French,text-embedding-3-large,39,Quelles seront les prochaines étapes pour la proposition présentée aujourd'hui?,39,37,7,39
+EU_Single_Currency,French,text-embedding-3-small,1,Qu'est-ce que le «cours légal» des billets et pièces en euros?,1,2,6,1
+EU_Single_Currency,French,text-embedding-3-small,2,Pourquoi la Commission agit-elle maintenant?,39,37,4,39
+EU_Single_Currency,French,text-embedding-3-small,3,Quels sont les objectifs de la proposition?,3,5,33,3
+EU_Single_Currency,French,text-embedding-3-small,4,De quelle manière la proposition garantit-elle l'acceptation des espèces et l'accès à celles-ci?,3,4,5,4
+EU_Single_Currency,French,text-embedding-3-small,5,De quelle manière la proposition contribue-t-elle à l'inclusion financière?,5,3,14,5
+EU_Single_Currency,French,text-embedding-3-small,6,Quelle est la base juridique de la proposition?,6,3,2,6
+EU_Single_Currency,French,text-embedding-3-small,7,Quelles sont les prochaines étapes?,39,11,20,39
+EU_Single_Currency,French,text-embedding-3-small,8,En quoi consisterait l'euro numérique?,8,33,17,8
+EU_Single_Currency,French,text-embedding-3-small,9,Quelle est la nécessité d'un euro numérique?,9,33,10,9
+EU_Single_Currency,French,text-embedding-3-small,10,"Quelle serait la valeur ajoutée de l'euro numérique par rapport aux solutions privées de paiement numérique existantes, telles que les cartes et les paiements mobiles?",10,19,36,10
+EU_Single_Currency,French,text-embedding-3-small,11,Qui émettrait l'euro numérique et quand?,11,39,33,11
+EU_Single_Currency,French,text-embedding-3-small,12,"L'euro numérique remplacera-t-il les espèces, s'il est adopté?",12,11,17,12
+EU_Single_Currency,French,text-embedding-3-small,13,"Quel serait le coût de l'euro numérique? Y aurait-il des frais à payer pour ouvrir un compte en euros numériques, retirer de l'argent liquide sur ce compte à un distributeur automatique ou envoyer de l'argent à l'étranger?",13,24,18,13
+EU_Single_Currency,French,text-embedding-3-small,14,De quelle manière l'euro numérique favoriserait-il l'inclusion financière? L'euro numérique pourrait-il être utilisé hors ligne?,14,10,19,14
+EU_Single_Currency,French,text-embedding-3-small,15,Qui aurait accès aux données à caractère personnel et à quelles fins? Comment ces données seraient-elles protégées?,15,15,29,15
+EU_Single_Currency,French,text-embedding-3-small,16,Quelles sont les différences entre les paiements en euros numériques en ligne et hors ligne?,16,19,10,16
+EU_Single_Currency,French,text-embedding-3-small,17,Quelle est la différence entre l'euro numérique et l'euro que nous avons déjà sur nos comptes bancaires?,8,36,9,8
+EU_Single_Currency,French,text-embedding-3-small,18,Où et comment se procurerait-on l'euro numérique?,11,17,33,11
+EU_Single_Currency,French,text-embedding-3-small,19,Où et comment l'euro numérique serait-il utilisable?,33,19,17,19
+EU_Single_Currency,French,text-embedding-3-small,20,Serait-il possible d'effectuer des paiements mobiles et d'utiliser le portefeuille européen d'identité numérique avec l'euro numérique?,20,19,10,20
+EU_Single_Currency,French,text-embedding-3-small,21,Le compte en euros numériques serait-il rémunéré?,21,27,31,21
+EU_Single_Currency,French,text-embedding-3-small,22,Serait-il possible de détenir plusieurs comptes en euros numériques?,22,31,24,22
+EU_Single_Currency,French,text-embedding-3-small,23,"L'euro numérique serait-il programmable (ou, autrement dit, les pouvoirs publics pourraient-ils lui attribuer des finalités spécifiques)?",23,34,24,23
+EU_Single_Currency,French,text-embedding-3-small,24,Le montant des avoirs détenus sur un compte en euros numériques serait-il plafonné?,22,24,21,24
+EU_Single_Currency,French,text-embedding-3-small,25,Quel serait le rôle du secteur privé?,25,18,15,25
+EU_Single_Currency,French,text-embedding-3-small,26,Un commerçant aurait-il l'obligation d'accepter l'euro numérique?,26,27,31,26
+EU_Single_Currency,French,text-embedding-3-small,27,Comment un commerçant traiterait-il les transactions en euros numériques?,27,26,31,27
+EU_Single_Currency,French,text-embedding-3-small,28,Quelle incidence l'euro numérique aurait-il sur le système bancaire?,28,19,24,28
+EU_Single_Currency,French,text-embedding-3-small,29,Qui pourrait détenir des euros numériques? Les personnes ne résidant plus dans la zone euro ou celles retournant dans leur pays de résidence après un séjour dans la zone euro auraient-elles le droit de conserver un compte en euros numériques?,29,30,31,29
+EU_Single_Currency,French,text-embedding-3-small,30,L'utilisation de l'euro numérique en dehors de la zone euro serait-elle autorisée?,31,33,24,31
+EU_Single_Currency,French,text-embedding-3-small,31,Les États membres de l'UE n'appartenant pas à la zone euro auraient-ils accès à l'euro numérique? Et les pays tiers?,31,29,33,31
+EU_Single_Currency,French,text-embedding-3-small,32,Des monnaies numériques de banque centrale sont-elles en cours d'élaboration dans d'autres pays?,32,33,8,32
+EU_Single_Currency,French,text-embedding-3-small,33,En quoi l'euro numérique soutiendrait-il le rôle international de l'euro?,33,9,35,33
+EU_Single_Currency,French,text-embedding-3-small,34,Comment l'euro numérique favoriserait-il l'innovation en matière de paiements?,34,36,10,34
+EU_Single_Currency,French,text-embedding-3-small,35,En quoi l'euro numérique favoriserait-il la résilience des paiements?,35,10,9,35
+EU_Single_Currency,French,text-embedding-3-small,36,Quelles synergies y aurait-il avec les paiements instantanés et la stratégie plus large de la Commission en matière de paiements de détail?,36,20,16,36
+EU_Single_Currency,French,text-embedding-3-small,37,Y aurait-il des garde-fous visant à prévenir le blanchiment de capitaux et le financement du terrorisme?,37,24,15,37
+EU_Single_Currency,French,text-embedding-3-small,38,Quels seront les rôles respectifs des colégislateurs et de la Banque centrale européenne?,38,39,6,38
+EU_Single_Currency,French,text-embedding-3-small,39,Quelles seront les prochaines étapes pour la proposition présentée aujourd'hui?,39,3,11,39
+EU_Single_Currency,French,text-embedding-ada-002,1,Qu'est-ce que le «cours légal» des billets et pièces en euros?,2,6,1,1
+EU_Single_Currency,French,text-embedding-ada-002,2,Pourquoi la Commission agit-elle maintenant?,39,7,4,39
+EU_Single_Currency,French,text-embedding-ada-002,3,Quels sont les objectifs de la proposition?,3,5,39,3
+EU_Single_Currency,French,text-embedding-ada-002,4,De quelle manière la proposition garantit-elle l'acceptation des espèces et l'accès à celles-ci?,5,3,4,4
+EU_Single_Currency,French,text-embedding-ada-002,5,De quelle manière la proposition contribue-t-elle à l'inclusion financière?,5,3,12,5
+EU_Single_Currency,French,text-embedding-ada-002,6,Quelle est la base juridique de la proposition?,3,2,5,3
+EU_Single_Currency,French,text-embedding-ada-002,7,Quelles sont les prochaines étapes?,39,7,3,7
+EU_Single_Currency,French,text-embedding-ada-002,8,En quoi consisterait l'euro numérique?,8,17,11,8
+EU_Single_Currency,French,text-embedding-ada-002,9,Quelle est la nécessité d'un euro numérique?,14,33,10,14
+EU_Single_Currency,French,text-embedding-ada-002,10,"Quelle serait la valeur ajoutée de l'euro numérique par rapport aux solutions privées de paiement numérique existantes, telles que les cartes et les paiements mobiles?",20,34,36,20
+EU_Single_Currency,French,text-embedding-ada-002,11,Qui émettrait l'euro numérique et quand?,11,39,17,11
+EU_Single_Currency,French,text-embedding-ada-002,12,"L'euro numérique remplacera-t-il les espèces, s'il est adopté?",11,12,33,12
+EU_Single_Currency,French,text-embedding-ada-002,13,"Quel serait le coût de l'euro numérique? Y aurait-il des frais à payer pour ouvrir un compte en euros numériques, retirer de l'argent liquide sur ce compte à un distributeur automatique ou envoyer de l'argent à l'étranger?",13,18,14,13
+EU_Single_Currency,French,text-embedding-ada-002,14,De quelle manière l'euro numérique favoriserait-il l'inclusion financière? L'euro numérique pourrait-il être utilisé hors ligne?,14,19,34,14
+EU_Single_Currency,French,text-embedding-ada-002,15,Qui aurait accès aux données à caractère personnel et à quelles fins? Comment ces données seraient-elles protégées?,15,15,29,15
+EU_Single_Currency,French,text-embedding-ada-002,16,Quelles sont les différences entre les paiements en euros numériques en ligne et hors ligne?,16,19,15,16
+EU_Single_Currency,French,text-embedding-ada-002,17,Quelle est la différence entre l'euro numérique et l'euro que nous avons déjà sur nos comptes bancaires?,14,36,8,14
+EU_Single_Currency,French,text-embedding-ada-002,18,Où et comment se procurerait-on l'euro numérique?,11,14,8,11
+EU_Single_Currency,French,text-embedding-ada-002,19,Où et comment l'euro numérique serait-il utilisable?,19,14,33,19
+EU_Single_Currency,French,text-embedding-ada-002,20,Serait-il possible d'effectuer des paiements mobiles et d'utiliser le portefeuille européen d'identité numérique avec l'euro numérique?,20,19,36,20
+EU_Single_Currency,French,text-embedding-ada-002,21,Le compte en euros numériques serait-il rémunéré?,21,14,20,21
+EU_Single_Currency,French,text-embedding-ada-002,22,Serait-il possible de détenir plusieurs comptes en euros numériques?,22,18,24,22
+EU_Single_Currency,French,text-embedding-ada-002,23,"L'euro numérique serait-il programmable (ou, autrement dit, les pouvoirs publics pourraient-ils lui attribuer des finalités spécifiques)?",23,34,11,23
+EU_Single_Currency,French,text-embedding-ada-002,24,Le montant des avoirs détenus sur un compte en euros numériques serait-il plafonné?,22,24,21,24
+EU_Single_Currency,French,text-embedding-ada-002,25,Quel serait le rôle du secteur privé?,25,12,15,25
+EU_Single_Currency,French,text-embedding-ada-002,26,Un commerçant aurait-il l'obligation d'accepter l'euro numérique?,26,27,18,26
+EU_Single_Currency,French,text-embedding-ada-002,27,Comment un commerçant traiterait-il les transactions en euros numériques?,27,26,18,27
+EU_Single_Currency,French,text-embedding-ada-002,28,Quelle incidence l'euro numérique aurait-il sur le système bancaire?,28,36,34,28
+EU_Single_Currency,French,text-embedding-ada-002,29,Qui pourrait détenir des euros numériques? Les personnes ne résidant plus dans la zone euro ou celles retournant dans leur pays de résidence après un séjour dans la zone euro auraient-elles le droit de conserver un compte en euros numériques?,29,31,22,29
+EU_Single_Currency,French,text-embedding-ada-002,30,L'utilisation de l'euro numérique en dehors de la zone euro serait-elle autorisée?,31,33,30,30
+EU_Single_Currency,French,text-embedding-ada-002,31,Les États membres de l'UE n'appartenant pas à la zone euro auraient-ils accès à l'euro numérique? Et les pays tiers?,31,29,33,31
+EU_Single_Currency,French,text-embedding-ada-002,32,Des monnaies numériques de banque centrale sont-elles en cours d'élaboration dans d'autres pays?,32,17,33,32
+EU_Single_Currency,French,text-embedding-ada-002,33,En quoi l'euro numérique soutiendrait-il le rôle international de l'euro?,33,34,35,33
+EU_Single_Currency,French,text-embedding-ada-002,34,Comment l'euro numérique favoriserait-il l'innovation en matière de paiements?,34,36,19,34
+EU_Single_Currency,French,text-embedding-ada-002,35,En quoi l'euro numérique favoriserait-il la résilience des paiements?,35,36,34,35
+EU_Single_Currency,French,text-embedding-ada-002,36,Quelles synergies y aurait-il avec les paiements instantanés et la stratégie plus large de la Commission en matière de paiements de détail?,36,20,34,36
+EU_Single_Currency,French,text-embedding-ada-002,37,Y aurait-il des garde-fous visant à prévenir le blanchiment de capitaux et le financement du terrorisme?,37,5,24,37
+EU_Single_Currency,French,text-embedding-ada-002,38,Quels seront les rôles respectifs des colégislateurs et de la Banque centrale européenne?,39,28,38,38
+EU_Single_Currency,French,text-embedding-ada-002,39,Quelles seront les prochaines étapes pour la proposition présentée aujourd'hui?,39,3,5,39
+EU_Single_Currency,German,text-embedding-3-large,1,"Was bedeutet es, dass Euro-Banknoten und -Münzen „gesetzliches Zahlungsmittel“ sind?",1,2,6,1
+EU_Single_Currency,German,text-embedding-3-large,2,Warum ergreift die Kommission jetzt Maßnahmen in diesem Bereich?,5,2,7,2
+EU_Single_Currency,German,text-embedding-3-large,3,Was sind die Hauptziele des Vorschlags?,5,3,2,3
+EU_Single_Currency,German,text-embedding-3-large,4,"Wie gewährleistet der Vorschlag, dass Bargeld akzeptiert wird und verfügbar ist?",3,4,5,4
+EU_Single_Currency,German,text-embedding-3-large,5,Wie trägt der Vorschlag zur finanziellen Inklusion bei?,5,14,3,5
+EU_Single_Currency,German,text-embedding-3-large,6,Auf welcher Rechtsgrundlage beruht der Vorschlag?,2,6,3,6
+EU_Single_Currency,German,text-embedding-3-large,7,Wie geht es weiter?,39,3,11,39
+EU_Single_Currency,German,text-embedding-3-large,8,Was wäre der digitale Euro?,8,10,11,8
+EU_Single_Currency,German,text-embedding-3-large,9,Warum brauchen wir einen digitalen Euro?,9,10,33,9
+EU_Single_Currency,German,text-embedding-3-large,10,Welchen Mehrwert hätte ein digitaler Euro gegenüber bestehenden privaten digitalen Zahlungsmöglichkeiten wie Karten und mobile Zahlungen?,10,9,33,10
+EU_Single_Currency,German,text-embedding-3-large,11,Wer würde den digitalen Euro ausgeben und wann?,11,39,17,11
+EU_Single_Currency,German,text-embedding-3-large,12,"Würde der digitale Euro das Bargeld ersetzen, wenn er eingeführt wird?",12,9,11,12
+EU_Single_Currency,German,text-embedding-3-large,13,"Was würde der digitale Euro kosten? Müsste ich eine Gebühr zahlen, um ein auf digitale Euro lautendes Konto zu eröffnen, von diesem Konto Geld ins Ausland zu schicken oder an einem Geldautomaten Bargeld abzuheben?",13,19,10,13
+EU_Single_Currency,German,text-embedding-3-large,14,Wie würde ein digitaler Euro die finanzielle Inklusion unterstützen? Könnte der digitale Euro offline genutzt werden?,14,19,10,14
+EU_Single_Currency,German,text-embedding-3-large,15,Wer hätte Zugang zu meinen personenbezogenen Daten und zu welchem Zweck? Wie würden meine Daten geschützt?,15,29,10,15
+EU_Single_Currency,German,text-embedding-3-large,16,Welche Unterschiede bestehen zwischen Online- und Offline-Zahlungen mit digitalen Euro?,16,19,10,16
+EU_Single_Currency,German,text-embedding-3-large,17,"Was ist der Unterschied zwischen einem digitalen Euro und dem Euro, den wir jetzt schon auf unserem Bankkonto haben?",8,10,11,8
+EU_Single_Currency,German,text-embedding-3-large,18,Wo und wie könnte ich auf den digitalen Euro zugreifen?,19,18,11,18
+EU_Single_Currency,German,text-embedding-3-large,19,Wo und wie könnte ich meine digitalen Euro ausgeben?,19,8,10,19
+EU_Single_Currency,German,text-embedding-3-large,20,Wären mobile Zahlungen mit digitalen Euro möglich? Könnte ich meine digitale Brieftasche (EUid-Brieftasche) verwenden?,20,19,10,20
+EU_Single_Currency,German,text-embedding-3-large,21,Würde mein digitales Euro-Konto vergütet?,21,13,10,21
+EU_Single_Currency,German,text-embedding-3-large,22,Könnte ich mehr als ein auf digitale Euro lautendes Konto haben?,22,18,24,22
+EU_Single_Currency,German,text-embedding-3-large,23,"Wäre der digitale Euro programmierbar, also könnten z. B. Behörden einen bestimmten Verwendungszweck vorgeben?",23,34,24,23
+EU_Single_Currency,German,text-embedding-3-large,24,"Gibt es einen Höchstbetrag, den ich auf meinem Konto halten darf?",24,22,1,24
+EU_Single_Currency,German,text-embedding-3-large,25,Welche Rolle würde der Privatsektor spielen?,25,34,33,25
+EU_Single_Currency,German,text-embedding-3-large,26,Müsste ich als Händler den digitalen Euro akzeptieren?,26,11,1,26
+EU_Single_Currency,German,text-embedding-3-large,27,Wie würde ich als Händler Zahlungen in digitalen Euro verarbeiten?,27,26,19,27
+EU_Single_Currency,German,text-embedding-3-large,28,Wie würde sich der digitale Euro auf das Bankensystem auswirken?,28,8,11,28
+EU_Single_Currency,German,text-embedding-3-large,29,"Wer könnte digitale Euro halten? Könnte ich ein Konto in digitalen Euro haben, auch wenn ich nicht mehr im Euro-Währungsgebiet wohne oder wenn ich nach einer Reise dorthin in mein Wohnsitzland zurückkehre?",29,31,30,29
+EU_Single_Currency,German,text-embedding-3-large,30,Könnte ich meine digitalen Euro auch außerhalb des Euro-Währungsgebiets verwenden?,30,33,19,30
+EU_Single_Currency,German,text-embedding-3-large,31,"Hätten EU-Mitgliedstaaten, die nicht dem Euro-Währungsgebiet angehören, Zugang zum digitalen Euro? Was ist mit Drittstaaten?",31,29,33,31
+EU_Single_Currency,German,text-embedding-3-large,32,Entwickeln auch andere Länder digitale Zentralbankwährungen?,32,33,9,32
+EU_Single_Currency,German,text-embedding-3-large,33,Wie würde der digitale Euro die internationale Rolle des Euro fördern?,33,9,34,33
+EU_Single_Currency,German,text-embedding-3-large,34,Wie würde der digitale Euro Innovationen im Zahlungsverkehr fördern?,34,10,9,34
+EU_Single_Currency,German,text-embedding-3-large,35,Wie würde der digitale Euro den Zahlungsverkehr widerstandsfähiger machen?,35,10,34,35
+EU_Single_Currency,German,text-embedding-3-large,36,Welche Synergien gibt es mit Sofortzahlungen und der umfassenderen Strategie der Kommission für den Massenzahlungsverkehr?,36,5,16,36
+EU_Single_Currency,German,text-embedding-3-large,37,Gibt es Schutzmaßnahmen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung?,37,4,7,37
+EU_Single_Currency,German,text-embedding-3-large,38,Welche Rolle spielen der Mitgesetzgeber und die Europäische Zentralbank?,7,39,6,7
+EU_Single_Currency,German,text-embedding-3-large,39,Wie geht es mit diesem Vorschlag nun weiter?,39,3,7,39
+EU_Single_Currency,German,text-embedding-3-small,1,"Was bedeutet es, dass Euro-Banknoten und -Münzen „gesetzliches Zahlungsmittel“ sind?",1,2,6,1
+EU_Single_Currency,German,text-embedding-3-small,2,Warum ergreift die Kommission jetzt Maßnahmen in diesem Bereich?,37,4,28,37
+EU_Single_Currency,German,text-embedding-3-small,3,Was sind die Hauptziele des Vorschlags?,33,34,5,33
+EU_Single_Currency,German,text-embedding-3-small,4,"Wie gewährleistet der Vorschlag, dass Bargeld akzeptiert wird und verfügbar ist?",3,4,5,4
+EU_Single_Currency,German,text-embedding-3-small,5,Wie trägt der Vorschlag zur finanziellen Inklusion bei?,5,14,3,5
+EU_Single_Currency,German,text-embedding-3-small,6,Auf welcher Rechtsgrundlage beruht der Vorschlag?,5,3,2,5
+EU_Single_Currency,German,text-embedding-3-small,7,Wie geht es weiter?,11,27,33,11
+EU_Single_Currency,German,text-embedding-3-small,8,Was wäre der digitale Euro?,33,8,9,8
+EU_Single_Currency,German,text-embedding-3-small,9,Warum brauchen wir einen digitalen Euro?,9,33,10,9
+EU_Single_Currency,German,text-embedding-3-small,10,Welchen Mehrwert hätte ein digitaler Euro gegenüber bestehenden privaten digitalen Zahlungsmöglichkeiten wie Karten und mobile Zahlungen?,10,9,19,10
+EU_Single_Currency,German,text-embedding-3-small,11,Wer würde den digitalen Euro ausgeben und wann?,11,33,39,11
+EU_Single_Currency,German,text-embedding-3-small,12,"Würde der digitale Euro das Bargeld ersetzen, wenn er eingeführt wird?",12,9,33,12
+EU_Single_Currency,German,text-embedding-3-small,13,"Was würde der digitale Euro kosten? Müsste ich eine Gebühr zahlen, um ein auf digitale Euro lautendes Konto zu eröffnen, von diesem Konto Geld ins Ausland zu schicken oder an einem Geldautomaten Bargeld abzuheben?",13,19,33,13
+EU_Single_Currency,German,text-embedding-3-small,14,Wie würde ein digitaler Euro die finanzielle Inklusion unterstützen? Könnte der digitale Euro offline genutzt werden?,14,10,16,14
+EU_Single_Currency,German,text-embedding-3-small,15,Wer hätte Zugang zu meinen personenbezogenen Daten und zu welchem Zweck? Wie würden meine Daten geschützt?,15,29,31,15
+EU_Single_Currency,German,text-embedding-3-small,16,Welche Unterschiede bestehen zwischen Online- und Offline-Zahlungen mit digitalen Euro?,16,19,10,16
+EU_Single_Currency,German,text-embedding-3-small,17,"Was ist der Unterschied zwischen einem digitalen Euro und dem Euro, den wir jetzt schon auf unserem Bankkonto haben?",8,10,9,8
+EU_Single_Currency,German,text-embedding-3-small,18,Wo und wie könnte ich auf den digitalen Euro zugreifen?,29,33,10,29
+EU_Single_Currency,German,text-embedding-3-small,19,Wo und wie könnte ich meine digitalen Euro ausgeben?,23,33,29,23
+EU_Single_Currency,German,text-embedding-3-small,20,Wären mobile Zahlungen mit digitalen Euro möglich? Könnte ich meine digitale Brieftasche (EUid-Brieftasche) verwenden?,20,19,10,20
+EU_Single_Currency,German,text-embedding-3-small,21,Würde mein digitales Euro-Konto vergütet?,29,8,21,21
+EU_Single_Currency,German,text-embedding-3-small,22,Könnte ich mehr als ein auf digitale Euro lautendes Konto haben?,22,29,18,22
+EU_Single_Currency,German,text-embedding-3-small,23,"Wäre der digitale Euro programmierbar, also könnten z. B. Behörden einen bestimmten Verwendungszweck vorgeben?",23,34,33,23
+EU_Single_Currency,German,text-embedding-3-small,24,"Gibt es einen Höchstbetrag, den ich auf meinem Konto halten darf?",22,24,18,24
+EU_Single_Currency,German,text-embedding-3-small,25,Welche Rolle würde der Privatsektor spielen?,25,15,17,25
+EU_Single_Currency,German,text-embedding-3-small,26,Müsste ich als Händler den digitalen Euro akzeptieren?,26,33,11,26
+EU_Single_Currency,German,text-embedding-3-small,27,Wie würde ich als Händler Zahlungen in digitalen Euro verarbeiten?,26,27,16,27
+EU_Single_Currency,German,text-embedding-3-small,28,Wie würde sich der digitale Euro auf das Bankensystem auswirken?,28,8,9,28
+EU_Single_Currency,German,text-embedding-3-small,29,"Wer könnte digitale Euro halten? Könnte ich ein Konto in digitalen Euro haben, auch wenn ich nicht mehr im Euro-Währungsgebiet wohne oder wenn ich nach einer Reise dorthin in mein Wohnsitzland zurückkehre?",29,30,31,29
+EU_Single_Currency,German,text-embedding-3-small,30,Könnte ich meine digitalen Euro auch außerhalb des Euro-Währungsgebiets verwenden?,30,29,31,30
+EU_Single_Currency,German,text-embedding-3-small,31,"Hätten EU-Mitgliedstaaten, die nicht dem Euro-Währungsgebiet angehören, Zugang zum digitalen Euro? Was ist mit Drittstaaten?",29,31,30,31
+EU_Single_Currency,German,text-embedding-3-small,32,Entwickeln auch andere Länder digitale Zentralbankwährungen?,32,33,8,32
+EU_Single_Currency,German,text-embedding-3-small,33,Wie würde der digitale Euro die internationale Rolle des Euro fördern?,33,9,34,33
+EU_Single_Currency,German,text-embedding-3-small,34,Wie würde der digitale Euro Innovationen im Zahlungsverkehr fördern?,34,9,10,34
+EU_Single_Currency,German,text-embedding-3-small,35,Wie würde der digitale Euro den Zahlungsverkehr widerstandsfähiger machen?,9,10,35,35
+EU_Single_Currency,German,text-embedding-3-small,36,Welche Synergien gibt es mit Sofortzahlungen und der umfassenderen Strategie der Kommission für den Massenzahlungsverkehr?,36,20,27,36
+EU_Single_Currency,German,text-embedding-3-small,37,Gibt es Schutzmaßnahmen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung?,37,24,4,37
+EU_Single_Currency,German,text-embedding-3-small,38,Welche Rolle spielen der Mitgesetzgeber und die Europäische Zentralbank?,38,7,2,38
+EU_Single_Currency,German,text-embedding-3-small,39,Wie geht es mit diesem Vorschlag nun weiter?,11,3,34,11
+EU_Single_Currency,German,text-embedding-ada-002,1,"Was bedeutet es, dass Euro-Banknoten und -Münzen „gesetzliches Zahlungsmittel“ sind?",2,1,6,1
+EU_Single_Currency,German,text-embedding-ada-002,2,Warum ergreift die Kommission jetzt Maßnahmen in diesem Bereich?,7,4,37,7
+EU_Single_Currency,German,text-embedding-ada-002,3,Was sind die Hauptziele des Vorschlags?,3,5,33,3
+EU_Single_Currency,German,text-embedding-ada-002,4,"Wie gewährleistet der Vorschlag, dass Bargeld akzeptiert wird und verfügbar ist?",3,4,12,4
+EU_Single_Currency,German,text-embedding-ada-002,5,Wie trägt der Vorschlag zur finanziellen Inklusion bei?,5,3,14,5
+EU_Single_Currency,German,text-embedding-ada-002,6,Auf welcher Rechtsgrundlage beruht der Vorschlag?,3,5,7,3
+EU_Single_Currency,German,text-embedding-ada-002,7,Wie geht es weiter?,7,3,27,7
+EU_Single_Currency,German,text-embedding-ada-002,8,Was wäre der digitale Euro?,8,10,33,8
+EU_Single_Currency,German,text-embedding-ada-002,9,Warum brauchen wir einen digitalen Euro?,33,9,10,9
+EU_Single_Currency,German,text-embedding-ada-002,10,Welchen Mehrwert hätte ein digitaler Euro gegenüber bestehenden privaten digitalen Zahlungsmöglichkeiten wie Karten und mobile Zahlungen?,10,20,19,10
+EU_Single_Currency,German,text-embedding-ada-002,11,Wer würde den digitalen Euro ausgeben und wann?,11,33,19,11
+EU_Single_Currency,German,text-embedding-ada-002,12,"Würde der digitale Euro das Bargeld ersetzen, wenn er eingeführt wird?",12,33,8,12
+EU_Single_Currency,German,text-embedding-ada-002,13,"Was würde der digitale Euro kosten? Müsste ich eine Gebühr zahlen, um ein auf digitale Euro lautendes Konto zu eröffnen, von diesem Konto Geld ins Ausland zu schicken oder an einem Geldautomaten Bargeld abzuheben?",13,18,19,13
+EU_Single_Currency,German,text-embedding-ada-002,14,Wie würde ein digitaler Euro die finanzielle Inklusion unterstützen? Könnte der digitale Euro offline genutzt werden?,14,19,35,14
+EU_Single_Currency,German,text-embedding-ada-002,15,Wer hätte Zugang zu meinen personenbezogenen Daten und zu welchem Zweck? Wie würden meine Daten geschützt?,15,29,23,15
+EU_Single_Currency,German,text-embedding-ada-002,16,Welche Unterschiede bestehen zwischen Online- und Offline-Zahlungen mit digitalen Euro?,16,19,10,16
+EU_Single_Currency,German,text-embedding-ada-002,17,"Was ist der Unterschied zwischen einem digitalen Euro und dem Euro, den wir jetzt schon auf unserem Bankkonto haben?",9,33,12,9
+EU_Single_Currency,German,text-embedding-ada-002,18,Wo und wie könnte ich auf den digitalen Euro zugreifen?,19,18,20,18
+EU_Single_Currency,German,text-embedding-ada-002,19,Wo und wie könnte ich meine digitalen Euro ausgeben?,19,20,23,19
+EU_Single_Currency,German,text-embedding-ada-002,20,Wären mobile Zahlungen mit digitalen Euro möglich? Könnte ich meine digitale Brieftasche (EUid-Brieftasche) verwenden?,20,19,10,20
+EU_Single_Currency,German,text-embedding-ada-002,21,Würde mein digitales Euro-Konto vergütet?,13,19,18,13
+EU_Single_Currency,German,text-embedding-ada-002,22,Könnte ich mehr als ein auf digitale Euro lautendes Konto haben?,22,18,24,22
+EU_Single_Currency,German,text-embedding-ada-002,23,"Wäre der digitale Euro programmierbar, also könnten z. B. Behörden einen bestimmten Verwendungszweck vorgeben?",23,34,33,23
+EU_Single_Currency,German,text-embedding-ada-002,24,"Gibt es einen Höchstbetrag, den ich auf meinem Konto halten darf?",22,24,21,24
+EU_Single_Currency,German,text-embedding-ada-002,25,Welche Rolle würde der Privatsektor spielen?,25,33,34,25
+EU_Single_Currency,German,text-embedding-ada-002,26,Müsste ich als Händler den digitalen Euro akzeptieren?,26,12,19,26
+EU_Single_Currency,German,text-embedding-ada-002,27,Wie würde ich als Händler Zahlungen in digitalen Euro verarbeiten?,27,25,26,27
+EU_Single_Currency,German,text-embedding-ada-002,28,Wie würde sich der digitale Euro auf das Bankensystem auswirken?,28,25,19,28
+EU_Single_Currency,German,text-embedding-ada-002,29,"Wer könnte digitale Euro halten? Könnte ich ein Konto in digitalen Euro haben, auch wenn ich nicht mehr im Euro-Währungsgebiet wohne oder wenn ich nach einer Reise dorthin in mein Wohnsitzland zurückkehre?",29,30,18,29
+EU_Single_Currency,German,text-embedding-ada-002,30,Könnte ich meine digitalen Euro auch außerhalb des Euro-Währungsgebiets verwenden?,30,31,19,30
+EU_Single_Currency,German,text-embedding-ada-002,31,"Hätten EU-Mitgliedstaaten, die nicht dem Euro-Währungsgebiet angehören, Zugang zum digitalen Euro? Was ist mit Drittstaaten?",31,29,33,31
+EU_Single_Currency,German,text-embedding-ada-002,32,Entwickeln auch andere Länder digitale Zentralbankwährungen?,32,33,8,32
+EU_Single_Currency,German,text-embedding-ada-002,33,Wie würde der digitale Euro die internationale Rolle des Euro fördern?,33,34,14,33
+EU_Single_Currency,German,text-embedding-ada-002,34,Wie würde der digitale Euro Innovationen im Zahlungsverkehr fördern?,34,14,25,34
+EU_Single_Currency,German,text-embedding-ada-002,35,Wie würde der digitale Euro den Zahlungsverkehr widerstandsfähiger machen?,35,34,25,35
+EU_Single_Currency,German,text-embedding-ada-002,36,Welche Synergien gibt es mit Sofortzahlungen und der umfassenderen Strategie der Kommission für den Massenzahlungsverkehr?,36,37,3,36
+EU_Single_Currency,German,text-embedding-ada-002,37,Gibt es Schutzmaßnahmen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung?,37,5,3,37
+EU_Single_Currency,German,text-embedding-ada-002,38,Welche Rolle spielen der Mitgesetzgeber und die Europäische Zentralbank?,28,39,11,28
+EU_Single_Currency,German,text-embedding-ada-002,39,Wie geht es mit diesem Vorschlag nun weiter?,3,39,5,39
